@@ -313,6 +313,25 @@ Ayla's `[crononick]` is a name she uses for Crono, treat it as a name in her sen
 
 ### 8.1 Length
 
+**Space budget (M).** The ROM stays at 32 Mbit because the target is RomM with EmulatorJS. The text
+areas of the cartridge hold about 192 KB of compressed script and the English one already uses
+160 KB. Measured with real `ctinsert` runs on a proxy for longer text:
+
+| Total script growth over English | Result |
+|---|---|
+| up to about +9.5 percent | fits |
+| +12.8 percent | 5 pages overflow, 1.9 KB short |
+| +15.8 percent | 6 pages overflow, 5.9 KB short |
+
+So the whole translation has to stay within roughly 10 percent of the English length, counting all
+strings. Portuguese naturally runs 20 to 30 percent longer, so this is a hard constraint on style:
+condense, cut filler, prefer short words. A 48 Mbit ROM would remove the limit but it corrupted
+the graphics and text when tried (see the README), so it is not an option.
+
+Run `cc-extrator budget` after every batch. It reports the growth over English, the space used on each
+page and the tightest pages, and says which pages overflow and by how many bytes. Pages fill
+unevenly: near the limit the dialogue pages 36, 37 and 38 fill up first.
+
 Portuguese runs longer than English. Measured examples in this project: `Lucca: Man, that fool
 sleeps a lot.` is 193 px and a natural translation is 222 px. Budget for it before writing.
 
@@ -428,7 +447,7 @@ These need your answer before the agent runs at scale. My recommendation is in b
 2. Fill the glossary (`notebook/glossary.tsv`), get it reviewed, then freeze it.
 3. Translate block by block in this order: item classes, item types, items, techs, monsters, places,
    eras, episodes, battle strings, prompts and config, descriptions, then dialogue by era.
-4. Run `cc-extrator check` after every batch, then `insert`. Both stop on problems.
+4. Run `cc-extrator check` and `cc-extrator budget` after every batch, then `insert`. All stop on problems.
 5. Test the ROM in Mesen2 after every block, not after the whole game. Check the screens where the
    text appears: item and tech menus, battle, shops, the era and episode lists, and a few dialogues
    of the longest kind.

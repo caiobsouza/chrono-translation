@@ -3,7 +3,7 @@ import sys
 from collections.abc import Sequence
 from pathlib import Path
 
-from cc_extrator import chronotools, glyphs, script, validator
+from cc_extrator import budget, chronotools, glyphs, script, validator
 
 DEFAULT_ROM = Path("data/ChronoTrigger.sfc")
 DEFAULT_WORK_DIR = Path("work")
@@ -26,6 +26,9 @@ def build_parser() -> argparse.ArgumentParser:
 
     check = commands.add_parser("check", help="validate the translated script against the original")
     _add_check_options(check)
+
+    space = commands.add_parser("budget", help="report how much of the text space the script uses")
+    space.add_argument("--work", type=Path, default=DEFAULT_WORK_DIR)
 
     insert = commands.add_parser("insert", help="check the script, then compile it into an IPS patch")
     _add_check_options(insert)
@@ -65,6 +68,19 @@ def run_check(args: argparse.Namespace) -> bool:
     return not report.errors
 
 
+def run_budget(work: Path) -> bool:
+    """Print the space report and return True when the script fits."""
+    original_path = work / chronotools.ORIGINAL_SCRIPT_NAME
+    target_path = work / chronotools.SCRIPT_NAME
+    for path in (original_path, target_path):
+        if not path.is_file():
+            raise FileNotFoundError(f"Missing {path}. Run extract first.")
+    english = chronotools.measure(work, original_path)
+    translation = None if target_path.read_bytes() == original_path.read_bytes() else chronotools.measure(work, target_path)
+    print(budget.format_report(english, translation))
+    return (translation or english).fits
+
+
 def main(argv: Sequence[str] | None = None) -> None:
     args = build_parser().parse_args(argv)
     try:
@@ -83,6 +99,9 @@ def _run(args: argparse.Namespace) -> None:
             result = glyphs.add_accents(args.work)
             print(f"12px font: {''.join(result.font12)}")
             print(f"8px font:  {''.join(result.font8)}")
+        case "budget":
+            if not run_budget(args.work):
+                sys.exit(1)
         case "check":
             if not run_check(args):
                 sys.exit(1)

@@ -93,3 +93,40 @@ def test_insert_reports_a_tool_error_without_a_traceback(tmp_path, monkeypatch):
 
     with pytest.raises(SystemExit, match="ctinsert reported 2 errors"):
         cli.main(["insert", "--work", work, "--glossary", str(tmp_path / "none.tsv")])
+
+
+def _measurement(raw, packed, overflow=False):
+    from cc_extrator.budget import Measurement
+    result = Measurement(raw=raw, packed=packed, capacity={"18": 1000}, remaining={"18": 1000 - packed // 200})
+    if overflow:
+        result.overflows["18"] = (1200, 1000)
+    return result
+
+
+def test_budget_reports_english_alone_when_nothing_was_translated(tmp_path, monkeypatch, capsys):
+    (tmp_path / "ct.en.txt").write_text("same")
+    (tmp_path / "ct.txt").write_text("same")
+    monkeypatch.setattr(cli.chronotools, "measure", lambda work, path: _measurement(1000, 600))
+
+    cli.main(["budget", "--work", str(tmp_path)])
+
+    output = capsys.readouterr().out
+    assert "FITS" in output and "Translation" not in output
+
+
+def test_budget_compares_a_translation_and_fails_on_overflow(tmp_path, monkeypatch, capsys):
+    (tmp_path / "ct.en.txt").write_text("english")
+    (tmp_path / "ct.txt").write_text("translated")
+    results = {"ct.en.txt": _measurement(1000, 600), "ct.txt": _measurement(1200, 720, overflow=True)}
+    monkeypatch.setattr(cli.chronotools, "measure", lambda work, path: results[path.name])
+
+    with pytest.raises(SystemExit) as exit_info:
+        cli.main(["budget", "--work", str(tmp_path)])
+
+    assert exit_info.value.code == 1
+    assert "OVERFLOW" in capsys.readouterr().out
+
+
+def test_budget_asks_for_extract_when_files_are_missing(tmp_path):
+    with pytest.raises(SystemExit, match="Run extract first"):
+        cli.main(["budget", "--work", str(tmp_path)])

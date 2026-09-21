@@ -153,3 +153,33 @@ def test_insert_fails_clearly_when_ctinsert_creates_no_patch(calls, tmp_path, mo
 
     with pytest.raises(chronotools.ChronotoolsError, match="without creating"):
         chronotools.insert(tmp_path)
+
+
+def test_measure_runs_ctinsert_on_a_throwaway_copy(tmp_path, monkeypatch):
+    (tmp_path / "ct.cfg").write_text("cfg")
+    (tmp_path / "ct16fn.tga").write_text("font")
+    (tmp_path / "ct.txt").write_text("the translation")
+    candidate = tmp_path / "candidate.txt"
+    candidate.write_text("the script to measure")
+    seen = {}
+
+    def fake_run(command, **kwargs):
+        mount = next(arg for arg in command if arg.endswith(":/work"))
+        scratch = Path(mount.removesuffix(":/work"))
+        seen["dir"] = scratch
+        seen["files"] = sorted(path.name for path in scratch.iterdir())
+        seen["script"] = (scratch / "ct.txt").read_text()
+        output = b"> Original script size: 100 bytes; new script size: 60 bytes\nFree space: 18:1000/1 - total: 1000 bytes\nFree space: 18:400/1 - total: 400 bytes\n"
+        return subprocess.CompletedProcess(command, 0, stdout=output)
+
+    monkeypatch.setattr(chronotools.subprocess, "run", fake_run)
+
+    result = chronotools.measure(tmp_path, candidate)
+
+    assert seen["script"] == "the script to measure"
+    assert seen["files"] == ["ct.cfg", "ct.txt", "ct16fn.tga"]
+    assert (result.raw, result.packed) == (100, 60)
+    assert result.used("18") == 600
+    assert not seen["dir"].exists()
+    assert (tmp_path / "ct.txt").read_text() == "the translation"
+    assert not list(tmp_path.glob("*.ips"))

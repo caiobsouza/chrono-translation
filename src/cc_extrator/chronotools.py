@@ -3,7 +3,10 @@ import re
 import shutil
 import subprocess
 import sys
+import tempfile
 from pathlib import Path
+
+from cc_extrator import budget
 
 IMAGE = "cc-extrator-chronotools"
 DOCKER_DIR = Path(__file__).parent / "docker"
@@ -63,6 +66,20 @@ def insert(work_dir: Path) -> Path:
     return work_dir / PATCH_NAME
 
 
+def measure(work_dir: Path, script: Path) -> budget.Measurement:
+    """Run ctinsert on a throwaway copy of the work directory and read its space report.
+
+    Nothing is written to the work directory, so no patch is created.
+    """
+    _require(work_dir, CONFIG_NAME)
+    with tempfile.TemporaryDirectory(prefix=".budget-", dir=work_dir) as name:
+        scratch = Path(name)
+        for source in [*work_dir.glob("*.tga"), work_dir / CONFIG_NAME]:
+            shutil.copyfile(source, scratch / source.name)
+        shutil.copyfile(script, scratch / SCRIPT_NAME)
+        return budget.parse_output(_capture_in_container(scratch, "ctinsert"))
+
+
 def apply_patch(work_dir: Path, out: Path) -> Path:
     """Apply the generated patch to the ROM and write the result to out."""
     _require(work_dir, ROM_NAME, PATCH_NAME)
@@ -94,13 +111,22 @@ def _require(work_dir: Path, *names: str) -> None:
         raise FileNotFoundError(f"Missing in {work_dir}: {', '.join(missing)}. Run the previous step first.")
 
 
-def _run_in_container(work_dir: Path, *command: str, fail_on_error: bool = False) -> None:
-    docker = [
+def _docker_command(work_dir: Path, *command: str) -> list[str]:
+    return [
         "docker", "run", "--rm",
         "--user", f"{os.getuid()}:{os.getgid()}",
         "-v", f"{work_dir.resolve()}:/work",
         IMAGE, *command,
     ]
+
+
+def _capture_in_container(work_dir: Path, *command: str) -> str:
+    result = subprocess.run(_docker_command(work_dir, *command), stdout=subprocess.PIPE, stderr=subprocess.STDOUT)
+    return (result.stdout or b"").decode("latin-1")
+
+
+def _run_in_container(work_dir: Path, *command: str, fail_on_error: bool = False) -> None:
+    docker = _docker_command(work_dir, *command)
     if not fail_on_error:
         subprocess.run(docker, check=True)
         return

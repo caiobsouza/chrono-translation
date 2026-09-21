@@ -65,6 +65,7 @@ uv run cc-extrator extract       # ROM to work/ct.txt (script) plus fonts, and a
 uv run cc-extrator accents       # once, adds the Portuguese accented letters to the fonts
 # edit or translate work/ct.txt
 uv run cc-extrator check         # validate work/ct.txt against work/ct.en.txt
+uv run cc-extrator budget        # how much of the cartridge's text space the script uses
 uv run cc-extrator insert        # runs check, then builds work/ctpatch.ips
 uv run cc-extrator apply         # patch applied, writes out/ChronoTrigger-ptbr.sfc
 ```
@@ -89,6 +90,10 @@ It reports:
 
 Limits such as the widest line of each block are measured from the original script, so they follow the game. The dialogue page estimate is approximate, so `insert` also stops when the real `ctinsert` prints an error and removes any patch it wrote before failing.
 
+### The space budget
+
+`budget` runs `ctinsert` on a throwaway copy of the work directory (nothing is written to it) and reports the English script and your translation side by side: raw and packed size, the growth over English, the space used on each of the 12 text pages, and the tightest pages. It says `FITS` or `OVERFLOW` with the pages and how much text to cut, and exits with an error status on overflow. Run it while translating, not at the end. See the known limitations for why the space is so tight.
+
 ### Accented letters
 
 `accents` draws á à â ã é ê í ó ô õ ú ç and their capitals into `work/ct16fn.tga` and `work/ct8fn.tga` and registers them in `work/ct.cfg`. The glyphs are composed from the letters already in the font, so no font data is stored in the repository. `check` reads `ct.cfg` and only accepts the accents the font really has.
@@ -97,6 +102,7 @@ Limits such as the widest line of each block are measured from the original scri
 
 - The variable-width 8px font (VWF8) is disabled in the default config, because its renderer crashes with the current toolchain.
 - `dump_events` is disabled in the default config. The sample config from Chronotools recompiles event `$017` (the game reset event). On the US ROM that recompiled event breaks the boot and the screen stays black. Do not enable it. This was found by bisecting the patch hunks and testing in Mesen2.
+- Space is the main constraint. The 32 Mbit ROM absorbs only about 10 percent more script than the English one before `ctinsert` runs out of text space. A 48 Mbit ROM (`romsize = 48` and `*Z` headers) removes the limit on paper, but the resulting ExHiROM image showed corrupted graphics and text in the target emulator (RomM with EmulatorJS), so it is not used. Longer dictionary words barely help (0.6 percent).
 - The dictionary is rebuilt for the script (`rebuild = true` in the default config). With the original dictionary reapplied, even the untouched English script overflows six text pages and `ctinsert` reports `ERROR:` lines.
 - Only the unmodified English script and a short accent test have been tried in an emulator.
 
