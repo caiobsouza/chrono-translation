@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+.venv
+.pytest_cache/
+.mypy_cache/
+
+# macOS
+.DS_Store
+
+# Game files and working data, never commit these
+data/*
+!data/.gitkeep
+work/
+out/*
+!out/.gitkeep

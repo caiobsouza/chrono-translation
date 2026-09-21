@@ -1,0 +1,2039 @@
+-------------------------------------------------------------------------------
+CHRONO COMPENDIUM
+Chrono Series Chronology
+2003-2009 ZeaLitY
+http://www.chronocompendium.com
+-------------------------------------------------------------------------------
+
+Search these to navigate the FAQ more easily. Exclude the #.) from the search.
+
+1.)Legal Information
+2.)Helpful Notes
+3.)Reptite Timeline
+4.)Lavos Timeline
+5.)Keystone T-1
+6.)Keystone T-2
+7.)Mid-Dimension Timelines
+8.)Home Timeline
+9.)Another Timeline
+A.)Ideal Timeline
+B.)Radical Dreamers Timeline
+C.)Bend of Time
+D.)Darkness Beyond Time
+E.)Temporal Vortex
+F.)Temporal Vortex
+G.)Lost Sanctum
+H.)Credits and Thanks
+
+-------------------------------------------------------------------------------
+1.) Legal Information
+-------------------------------------------------------------------------------
+
+This FAQ is by ZeaLitY (Zeality@gmail.com) 2003-2009.
+Chrono series is © Square Enix. This is an unofficial FAQ, and cannot be used
+commercially.
+
+Currently, websites other than www.chronocompendium.com and GameFAQs are
+forbidden from posting this guide. Revisions to this FAQ can only be done
+with my permission. This FAQ may not be used in a password-protected area, or
+one that requires monetary payment to
+access.
+
+The purpose of this FAQ is to serve as a reference file to the events of
+the series; in the past, players have been hampered in discussion of the
+game by lack of knowledge of certain events. The Timeline FAQ seeks to correct
+this. It has been created through several playthroughs of Chrono Trigger,
+Chrono Cross, and Radical Dreamers, and has been scrutinized by the Chrono
+Compendium for errors.
+
+2004-01-10: Version 1
+-Release
+2004-01-16: Version 1.1
+-Minor Edits
+2004-01-30: Version 1.2
+-Minor Edits
+2004-03-21: Version 1.3
+-Crono's actions added to Keystone T-1
+2004-07-16: Version 1.4
+-Added Keystone PD-1 and Darkness Beyond Time
+2004-10-11: Version 1.5
+-Added Mid-Dimension Timelines, Bend of Time, Temporal Vortex
+2006-01-20: Version 1.6
+-Missing Cross lines reveal the date of Porre lab explosion
+2006-07-04: Version 1.7
+-Fixed ambiguity of Dario's incident in Home World; it is now tied to 1017 A.D.
+2008-06-13: Version 2.0
+-Evidence suggests Chronopolis went to 12000 B.C.; other rewrites and editing.
+2009-08-23: Version 2.1
+-Pocket Dimension theory is deprecated.
+2009-10-06: Version 2.2
+-Chrono Trigger DS events have been added.
+2025-12-21: Version 2.3
+-Radical Dreamers updated for remastered translation.
+
+http://www.chronocompendium.com
+-------------------------------------------------------------------------------
+2.) Helpful Notes
+-------------------------------------------------------------------------------
+
+The timelines are organized according to this chart:
+
+http://www.chronocompendium.com/images/wiki/b/b1/Timelines.png
+
+Reptite Timeline — The world if Lavos had not landed.
+Lavos Timeline — The world without the actions of Crono.
+Keystone T-1 — The world with the actions of Crono.
+Keystone T-2 — The world with Chronopolis introduced in 12000 B.C.
+Another World — The natural world 1010-1020 A.D. without Serge.
+Home World — The anomalistic world 1010-1020 A.D. with Serge.
+Mid-Dimension Timelines — Timelines created while setting up Project Kid.
+Ideal Timeline — The world 1010 A.D. and onward of the unified dimensions.
+Bend of Time — Chronology of the Bend of Time.
+Darkness Beyond Time — Chronology of the Darkness Beyond Time.
+Temporal Vortex — Chronology of the Temporal Vortex.
+Dimensional Vortex - Chronology of the Dimensional Vortex.
+Lost Sanctum - Chronology of the Lost Sanctum.
+
+Note that the End of Time is the same for all timelines, but has noneteheless
+been divided into sections according to actions in various outside timelines.
+
+Note that the Mid-Dimension Timelines are simply the various timelines that
+came into being by examples of time travel done to set up Project Kid. The
+timelines of Home and Another are still relevant, and should be consulted for
+a chronological order of events.
+
+I will call the seed that appears frequently throughout Trigger a magic seed.
+
+Gaspar, Belthasar, and Melchior are the gurus of Time, Reason, and Life,
+respectively.
+
+Order of Sidequests (Gaspar's Order):
+
+Fiona's Forest
+Ozzie's Fort
+Mother Brain
+Sun Stone
+Cyrus' Ghost
+Rainbow Shell
+Black Omen (Queen Zeal)
+
+*** by a point means that a footnote is provided at the end of the timeline.
+'-' means that an event succeeds everything above it, while a series of
+'*'s mean that it is unknown which event occurred before the other.
+'-U-' means that this event is dated according to Ultimania, a flawed guide for
+Chrono Cross written in Japan that may nonetheless have some credibility.
+
+-------------------------------------------------------------------------------
+3.)======================REPTITE TIMELINE======================================
+-------------------------------------------------------------------------------
+
+=>65000000 B.C.
+
+-History of this dimension is largely unknown; Lavos almost certainly doesn't
+land.
+-Reptites conquer the early humans.
+
+=>65000000 B.C. to 2400 A.D.
+
+-Reptites evolve into Dragonians.
+-Dragonians build society closely related to nature.
+*Dinopolis is built.
+*The Dragon God is created, a biological machine used to control nature.
+
+=>2400 A.D.
+
+-Dinopolis is pulled to the Keystone T-2 to serve as a counter-balance for
+Chronopolis's introduction to the past.
+-With the Dragon God, Dinopolis, and the moon suddenly disappearing, the
+Dragonian society probably underwent perilous times.
+
+-------------------------------------------------------------------------------
+4.)======================LAVOS TIMELINE========================================
+-------------------------------------------------------------------------------
+
+=>Pre-65000000 B.C.
+
+*Nu mysteriously exist.
+*Two sentient races evolve—Reptites and early humans.
+*Ioka and Laruba are established; the Tyrano Lair is also built.
+*Reptites begin to wage war on humans for control of the planet.
+-Kino appears on Mystic Mountain.
+
+=>65000000 B.C.
+
+-Nu reside at the Hunting Grounds.
+-The Ioka clan chiefly fights the Reptites; the Laruba clan hides.
+-Laruba village may or may have not been burned to the ground by the Reptites.
+-Lavos lands on the planet.
+-Either during the crash or later, a piece of Lavos known as the Frozen Flame
+separates from the whole.
+-Lavos is named by Ayla. La means fire, Vos means big.
+-Lavos burrows and begins absorbing the planet's energy.
+
+=>65000000 B.C. to 3000000 B.C.
+
+-An Ice Age sets in due to the impact of Lavos.
+-Reptites die from the Ice Age; humans retreat underground.
+
+=>3000000 B.C.
+
+-Early humans come into contact with the Frozen Flame, sparking evolution and
+giving humanity the power of magic.
+-Some humans can use magic unaided by external power sources; others can use
+magic with assistance, while some are wholly incapable of using magic.
+
+=>3000000 B.C. to 12000 B.C.
+
+-Humans discover the Sun Stone, allowing magic use by non-innates and serving
+as a huge source of power.
+-Zeal is created and islands are raised to the sky as dwellings for the magic
+using Enlightened Ones.
+-Those totally incapable of using magic stay behind as the Earthbound.
+-Schala is born.
+-Janus is born.
+-King Zeal dies, and Queen Zeal succeeds the throne.
+-The Mammon Machine is built out of Dreamstone by the Gurus, and possibly uses
+the Frozen Flame to extract energy from Lavos.
+-A pendant used to control the Mammon Machine and work with sealed doors is
+forged by the Gurus.
+-Janus hides his magic power to avoid having to work with the new machine.
+-Schala is desginated controller of the Mammon Machine; if the Frozen Flame is
+inside, she is possibly its Arbiter.
+-Queen Zeal becomes cold and aloof.
+-The Sun Stone is discontinued as Zeal's primary power source.
+*Belthasar designs the Ocean Palace and Blackbird.
+*Magic tabs are invented by a resident of Zeal living in Kajar.
+-Dalton is placed in charge of the completion of the Ocean Palace.
+-Slave labor by the Earthbound is used at the Ocean Palace.
+
+=>12000 B.C.
+
+*Melchior forges the Masamune from Dreamstone and his dreams.
+*Melchior creates a special magic seed and gives it to a woman.
+*The Gurus learn of the Mammon Machine's possibility for evil.
+*Schala presumably gives Janus her amulet.
+*The Mammon Machine is moved to the Ocean Palace.
+-Queen Zeal activates the Mammon Machine at the Ocean Palace, which awakens
+Lavos.
+-Lavos (or more likely, the Entity) creates gates that send Belthasar to
+2300 A.D., Melchior to 1000 A.D., Gaspar to the End of Time, and Janus to
+600 A.D.
+-Queen Zeal and Schala are presumably killed, since Lavos does not become a
+Time Devourer in the original timeline. However, Schala may have also used
+her power to warp to safety with her mother. Also, a prototype Epoch may
+have followed Belthasar to 2300 A.D., since Dalton reveals that Belthasar
+was working on such a vehicle in Zeal.
+-Lavos, awakened by the Ocean Palace, obliterates Zeal.
+-The Sun Palace sinks in the sea with the Sun Stone inside.
+-The storm causing the Ice Age abates.
+*The magic seed is presumably planted.
+
+=>12000 B.C. to 1 A.D.
+
+-The land warms up.
+*Schala's pendant finds its way to the Earthbound, and is passed along the
+Guardia line.
+*Many sealed treasure boxes from Zeal scatter throughout civilization.
+
+=>1 A.D.
+
+-The Kingdom of Guardia is founded.
+
+=>1 A.D. to 590 A.D.
+
+*The Tyrano Lair resurfaces, and is called the Giant's Claw. It houses the
+Rainbow shell.
+*The blue pyramid, which stores Zeal's mightiest weapons, surfaces in a forest.
+*The Masamune is sealed in a cave in the Denadoro mountains.
+*A beast called Yakra haunts the forest west of Guardia, and occupies a
+cathedral when it is built there.
+*Janus warps in from 12000 B.C. due to the ocean palace disaster. He is raised
+by the Mystics and becomes a powerful mage, also taking the name Magus.
+*Glenn is picked on as a child.
+-Glenn becomes squire to Cyrus, head royal knight.
+*War between Mystics and humans is begun by Magus to gain power necessary
+to summon Lavos and avenge his sister's presumable death.
+
+=>590 A.D.
+
+-Queen Leene marries into the Guardia royal family.
+-Cyrus and Glenn recover the Hero's Medal from the Frog King.
+-Cyrus obtains the Masamune.
+-Magus breaks the Masamune in a fight with Cyrus and Glenn.
+-Cyrus is murdered by Magus and Ozzie; Glenn becomes Frog by Magus's spell.
+-Frog buries Cyrus in the Northern Ruins of Choras.
+-Cyrus haunts the ruins.
+
+=>590 A.D. to 600 A.D.
+
+-Zenan Bridge is destroyed.
+
+=>600 A.D.
+
+-King Guardia XXI reigns.
+-Queen Leene is abducted in the cathedral to the west of Guardia castle by
+Yakra.
+-Frog rescued Queen Leene.
+-Magus summons Lavos, and is presumably killed.
+-The Mystics lose the war after their leader disappears.
+-Fiona is unable to save her forest from Retinite.
+
+=>634 A.D.
+
+-On March 6th, 634 A.D., Toma passes away and is buried.
+
+=>990 A.D.
+
+-On June 24th, Taban blows off a hike with Lucca, and her mother has an
+accident which costs her use of her legs.
+
+=>990 A.D. to 1000 A.D.
+
+*Queen Aliza, Marle's mother, passes away.
+*Melchior warps in from 12000 B.C. after the Ocean Palace disaster.
+
+=>1000 A.D.
+
+-King Guardia XXXIII reigns.
+-Ozzie's descendant, Ozzie VIII, runs Medina village.
+-The Millennial Fair is held.
+-U-Lucca finishes her theory on Artificial Intelligence.
+
+=>1999 A.D.
+
+-The Arris Dome is controlled by the Guardia family line.
+-Lavos awakens and destroys the world.
+-Robo is damaged and falls unconscious at the Proto Dome.
+
+=>1999 A.D. to 2300 A.D.
+
+*The Sun Palace resurfaces from the sea.
+*Surviving humans take shelter in domes, surviving through Enertrons.
+*Lavos asexually reproduces at Death Peak.
+*Belthasar comes in from the Ocean Palace disaster.
+
+=>2300 A.D.
+
+-Doan, of the Guardia family line, directs the Arris Dome.
+-A deceased resident of the Arris Dome holds a magic seed.
+-Belthasar continues work on the Epoch at the Keeper's Dome.
+-Mother Brain murders humans at the Geno Dome in her plan to create a
+robotic nation.
+-Belthasar finishes the Epoch.
+
+=>Post-2300 A.D.
+
+*The last few humans die; the magic seed is not planted.
+*Lavos spawns depart to find new planets.
+*The planet presumably recovers over countless years.***
+
+=>The End Of Time
+
+-Gaspar and possibly Spekkio come in from the Ocean Palace disaster.
+
+***In the Japanese version of the game, Mother Brain notes that given enough
+time, the planet will recover.
+
+-------------------------------------------------------------------------------
+5.)============KEYSTONE T-1====================================================
+-------------------------------------------------------------------------------
+
+=>Pre-65000000 B.C.
+
+*Nu mysteriously exist.
+*Two sentient races evolve—Reptites and early humans.
+*Ioka and Laruba are established; the Tyrano Lair is also built.
+*Reptites begin to wage war on humans for control of the planet.
+-Kino appears on Mystic Mountain.
+
+=>65000000 B.C.
+
+-Nu reside at the Hunting Grounds.
+-The Ioka clan chiefly fights the Reptites; the Laruba clan hides.
+-Crono's party warps in from 1000 A.D. to find Dreamstone.
+-Crono's party meets Ayla, who throws a celebration for them.
+-Crono receives Dreamstone by defeating Ayla in a drinking contest.
+-The Gate key is stolen, but the team recover it at the Forest Lair.
+-Reptite attacks temporarily subside.
+-Crono's party warps back to 1000 A.D. to have Melchior repair the Masamune.
+-Crono's party warps in from the Magus battle in 600 A.D. to Mystic Mountain.
+-Laruba village is burned to the ground, and Kino is taken hostage.
+-Crono's party goes to the Tyrano lair to defeat Azala and free Kino.
+-Azala sees the red star and predicts the fall of Lavos.
+-Lavos lands on the planet, pushing the Tyrano Lair underground.
+-Either during the crash or later, a piece of Lavos known as the Frozen Flame
+separates from the whole.
+-Lavos is named by Ayla. La means fire, Vos means big.
+-Lavos burrows and begins absorbing the planet's energy.
+-Crono's party warps to 12000 B.C. through a Gate thought to be created by
+Lavos's impact.
+-Crono's party returns from 12000 B.C. after the Prophet seals the Gate.
+-Crono's party warps to 2300 A.D. to the Keeper's Dome.
+-Crono's party warps in from 2300 A.D. and places the Sun Stone in Sun Keep.
+
+=>65000000 B.C. To 3000000 B.C.
+
+-An Ice Age sets in due to the impact of Lavos.
+-Reptites die from the Ice Age; humans retreat underground.
+
+=>3000000 B.C.
+
+-Early humans come into contact with the Frozen Flame, sparking evolution and
+giving humanity the power of magic.
+-Some humans can use magic unaided by external power sources; others can use
+magic with assistance, while some are wholly incapable of using magic.
+
+=>3000000 B.C. to 12000 B.C.
+
+-Humans discover the Sun Stone, allowing magic use by non-innates and serving
+as a huge source of power.
+-Zeal is created and islands are raised to the sky as dwellings for the magic
+using Enlightened Ones.
+-Those totally incapable of using magic stay behind as the Earthbound.
+-Schala is born.
+-Janus is born.
+-King Zeal dies, and Queen Zeal succeeds the throne.
+-The Mammon Machine is built out of Dreamstone by the Gurus, and possibly uses
+the Frozen Flame to extract energy from Lavos.
+-A pendant used to control the Mammon Machine and work with sealed doors is
+forged by the Gurus.
+-Janus hides his magic power to avoid having to work with the new machine.
+-Schala is desginated controller of the Mammon Machine; if the Frozen Flame is
+inside, she is possibly its Arbiter.
+-Queen Zeal becomes cold and aloof.
+-The Sun Stone is discontinued as Zeal's primary power source.
+*Belthasar designs the Ocean Palace and Blackbird.
+*Magic tabs are invented by a resident of Zeal living in Kajar.
+-Dalton is placed in charge of the completion of the Ocean Palace.
+-Slave labor by the Earthbound is used at the Ocean Palace.
+
+=>12000 B.C.
+
+*Melchior forges the Masamune from Dreamstone and his dreams.
+*Melchior creates a special magic seed and gives it to a woman.
+*Magus warps in from 600 A.D. and becomes a false prophet, hoping to gain
+revenge on Lavos. He advises Queen Zeal that Crono's party may possibly
+show up, and also tells her to get rid of the three Gurus. However,
+despite them not being warped in the Ocean Palace disaster as originally
+happened, they are still preserved within their timelines (Belthasar in
+2300, Melchior in 1000, Gaspar in End of Time, Janus in 600 AD) due to
+Time Traveler's Immunity.***
+-Melchior is locked up on the Mountain of Woe.
+-Magus replaces Dalton as presider over the completion of the Ocean Palace.
+-Crono's party comes in from 65000000 B.C. through a Gate.
+-Crono's party instructs the lady in Zeal to not burn the magic seed.
+-Schala gives Janus her amulet.
+-Crono's party defeats Dalton's Golem, and are imprisoned. Freed by Schala,
+they are sent back to 65000000 B.C. The Gate is sealed.
+-Crono's party warps in on the Epoch from 2300 A.D. and visits Algetty.
+-The Mammon Machine is moved to the Ocean Palace.
+-Crono's party surmounts the Mountain of Woe and frees Melchior.
+-Schala visits Melchior in an attempt to flee the Ocean Palace, for it will not
+work without her.
+-Dalton abducts Schala and takes her to the Ocean Palace.
+-To assist with their challenging the queen, Melchior gives Crono's party the
+Ruby Knife, the prototype of the Masamune.
+-Crono's party ventures to the Ocean Palace and plunges the Ruby Knife
+into the machine, awakening Lavos in the process.
+-The Prophet reveals his identity as Magus and fails to defeat Lavos.
+-Crono sacrifices himself in a futile attempt to kill Lavos.
+-At a frozen point in time, Crono's party from the future replaces him with a
+doll and extracts him to the safety of 2300 A.D.
+-Crono's party at the Ocean Palace witness his apparent death.
+-Schala sends the remaining party members to safety against Magus's will.
+-Schala is sucked into a vortex along with the Mammon Machine by Lavos.
+-At the Darkness Beyond Time, the defeated Lavos fuses with Schala to begin
+the initial stages of transformation into the Time Devourer.
+-Half of Schala's mind becomes set on destroying the world, while the other
+half wishes to save the universe and herself.
+-The Mammon Machine is returned to the Ocean Palace.
+-Lavos obliterates Zeal.
+-Zeal sinks into the sea, creating a tidal wave that covers most of the low-
+lying land with water.
+-The Sun Palace sinks into the sea with the Sun Stone inside.
+-Melchior and Janus disappear, perphaps illustrating Time Bastard.***
+-The storm causing the Ice Age abates.
+-Dalton, who survived the fall, musters his remaining troops on the saved
+Blackbird and forcefully takes over the Earthbound village.
+-Crono's party is taken prisoner on the ship.
+-Dalton and his crew give the Epoch wings and lasers.
+-In an effort to summon his Golem Boss, Dalton is sucked into a Gate to the
+Dimensional vortex.
+-The Blackbird is accidentally destroyed by the Epoch's lases.
+-Magus is found on the North Cape. He joins Crono's party after nearly dueling
+with Frog.
+-The Ocean Palace rises as the Black Omen, commanded by a Lavos-appeasing
+Queen Zeal.
+-Gates to the Lost Sanctum appear in 65000000 B.C. and 600 A.D.
+-Crono's party travels to the End of Time to consult Gaspar about reviving
+Crono.
+-Crono's party comes in from 1000 A.D. to enter the Black Omen.
+-Crono's party defeats Queen Zeal, who warps the party into the Mammon Machine.
+-Crono's party defeats the Mammon Machine.
+-Crono's party defeats Queen Zeal a second time.
+-Queen Zeal uses the Black Omen as a Gate to send the party to battle Lavos in
+1999 A.D.***
+-Magus arrives to search for Schala.
+
+***Time Traveler's Immunity and Time Bastard were proposed and illustrated at
+the Chrono Compendium's article, "Principles of Time and Dimensional Travel".
+Find it at
+http://www.chronocompendium.com/Term/Principles_of_Time_and_Dimensional_Travel
+
+***If the player loses to Lavos after fighting him through the Black Omen, the
+1999 A.D. eruption bad ending plays. Lavos also always has a defeated shell
+in every appearance after the party removes his shell. An easy explanation for
+these phenomena is that in the cut scene that plays after Queen Zeal's defeat,
+she's using the Black Omen as a blue Gate (which flashes as the Black Omen
+de-materializes) and sending the party to 1999 A.D. to fight Lavos, at which
+time he'd be at his strongest power.
+
+=>12000 B.C. to 1 A.D.
+
+-The land warms up.
+-Many sealed treasure boxes from Zeal scatter throughout civilization.
+
+=>1 A.D.
+
+-The Kingdom of Guardia is founded.
+
+=>1 A.D. to 590 A.D.
+
+*The Tyrano Lair resurfaces, and is called the Giant's Claw. It houses the
+Rainbow shell.
+*The blue pyramid, which stores Zeal's mightiest weapons, surfaces in a forest.
+*The Masamune is sealed in a cave in the Denadoro mountains.
+*A beast called Yakra haunts the forest west of Guardia, and occupies a
+cathedral when it is built there.
+*Janus warps in from 12000 B.C. due to the ocean palace disaster. He is raised
+by the Mystics and becomes a powerful mage, also taking the name Magus.
+*Glenn is picked on as a child.
+-Glenn becomes squire to Cyrus, head royal knight.
+*War between Mystics and humans is begun by Magus to gain power necessary
+to summon Lavos and avenge his sister's presumable death.
+
+=>590 A.D.
+
+-Queen Leene marries into the Guardia royal family.
+-Cyrus and Glenn recover the Hero's Medal from the Frog King.
+-Cyrus obtains the Masamune.
+-Magus breaks the Masamune in a fight with Cyrus and Glenn.
+-Cyrus is murdered by Magus and Ozzie; Glenn becomes Frog by Magus's spell.
+-Frog buries Cyrus in the Northern Ruins of Choras.
+-Cyrus haunts the ruins.
+
+=>590 A.D. to 600 A.D.
+
+-Zenan Bridge is destroyed.
+
+=>600 A.D.
+
+-King Guardia XXI reigns.
+-Queen Leene is abducted in the cathedral to the west of Guardia castle by
+Yakra.
+-Crono appears in Truce Canyon from being Gated at the Millennial Fair.
+-Marle is temporarily detained by the Entity in order to have Crono rescue
+Leene and effectively begin his adventure to save the world.
+-Lucca warps in to check on Crono's status.
+-Crono, Lucca, and Frog defeat Yakra in the west cathedral and release Queen
+Leene and the Chancellor.
+-Marle is released upon Crono's entrance into the room in which she
+disappeared.
+-Frog departs to his Cursed Woods hideaway, having failed to protect the
+queen.
+-Crono, Marle and Lucca warp out to 1000 A.D.
+*King Guardia is injured in battle.
+*Tata obtains the Hero's Medal from Frog at a bar. He is mistaken for the great
+Hero, who is prophecied to win the war.
+*Tata is instructed by the king to search the Denadoro mountains for the
+Masamune.
+-Magus's troops approach the repaired Zenan bridge.
+-Crono's party warps in from 1000 A.D. to take out Magus, who supposedly
+created Lavos.
+-Crono's party defeats Ozzie and his troops at Zenan bridge.
+-The headman chief of Sandorino village pays Toma to find the Rainbow Shell in
+order to make reflective armor.
+-Crono's party receives the broken blade of the Masamune.
+-Crono's party receives the Hero's Medal from Tata.
+-Crono's party retrieves the other part of the Masamune and warps to 1000 A.D.
+to find Melchior.
+-Crono's party warps in from 1000 A.D. and gives the Masamune to Frog.
+-Frog joins Crono's party; they leave to fight Magus.
+-Crono's party defeats Flea, Slash, Ozzie, and Magus.
+-Magus partly summons Lavos, causing a temporal distortion which engulfs all
+present. Magus is sent to 12000 B.C. Zeal, while Crono's party are warped to
+65000000 B.C. at Mystic Mountain.
+-The Mystics eventually lose the war after their leader disappears.
+-Crono arrives in 600 A.D. from the End of Time to save Fiona's Forest.
+-Crono defeats Retinite.
+-Robo decides to stay behind for the next 400 years to help plant, and a
+variant of the magic seed is planted.
+-Crono's party departs for 1000 A.D. to pick up Robo.
+-Crono's party arrives from 1000 A.D. to defeat Ozzie, Slash, and Flea.
+-After losing a second time, Ozzie, Slash, and Flea somehow warp to the Bend of
+Time.
+-Crono's party warps back to 1000 A.D. to check on Medina.
+-Crono's party warps in from 1000 A.D. to give the mayor of Porre's ancestor
+some jerky.
+-Crono's party gives her the jerky, instilling kindness in every generation
+up to 1000 A.D.
+-Crono's party warps back to 1000 A.D. to pick up the Sun stone.
+-In or around this event, Toma locates the Rainbow Shell.
+-Crono's party arrives in 600 A.D. to assist Cyrus' ghost.
+-Crono's party learns that tools are required. The party warps to 1000 A.D. to
+obtain tools.
+-Crono's party returns from 1000 A.D. with tools.
+-While hiring the carpenter, Crono's party is instructed by Toma to pour soda
+over his grave if he never finds the Rainbow Shell.
+-The ruins are slowly repaired as Crono's party and the builders exchange the
+task of repairing and exorcising the ghosts.
+-Frog visits Cyrus's grave. Cyrus appears and reveals that he could not sleep
+due to worry over the fate of those he left behind.
+-The Masamune powers up as Masa and Mune are inspired by Frog and Cyrus.
+-Crono's party warps to 1000 A.D. to pour soda on Toma's grave.
+-Crono's party returns from 1000 A.D. to obtain the Rainbow Shell.
+-Crono's party discover the Rainbow Shell within the Giant's Claw (Tyrano
+Lair).
+-Crono's party removes the Rainbow Shell with the assistance of Guardia
+knights.
+-Crono's party leaves for 1000 A.D. to obtain the Rainbow Shell (presumably so
+Melchior can process it).
+-Frog returns to 600 A.D. after the adventure.
+
+=>634 A.D.
+
+-On March 6th, 634 A.D., Toma passes away and is buried.
+
+=>600 A.D. To 990 A.D.
+
+-Fiona's Forest regrows, and a shrine is erected to Robo.
+-The tale of Glenn, Cyrus, and Magus is passed down through generations in
+Choras.
+-The Rainbow Shell is stored as a national treasure until 1000 A.D.
+*King Guardia supposedly wills that the Rainbow Shell shall be unveiled at the
+Millennial Fair. (This may have been a forgery by 1000 A.D.'s Yakra.)
+*Queen Leene composes a letter assuring Marle of the bond between her and her
+father. It is placed by the Rainbow Shell.
+*Yakra somehow regains control of the Chancellor line.
+
+=>990 A.D.
+
+-On June 24th, Taban blows off a hike with Lucca, and her mother loses the use
+of her legs.
+-Lucca enters June 24th through a strange Gate, probably made by the Entity.
+-Lucca saves her mother.
+-Lucca blanks out until July 2, upon which she returns to 1000 A.D.
+
+=>990 A.D. to 1000 A.D.
+
+*Queen Aliza, Marle's mother, passes away.
+*Melchior warps in from 12000 B.C. after the Ocean Palace disaster.
+
+=>1000 A.D.
+
+-King Guardia XXXIII reigns.
+-The Millennial Fair is held.
+-Crono and Marle meet at the Fair.
+-Marle's pendant causes Lucca's new telepod to throw her back to 600 A.D. This
+is almost certainly the work of the Entity.
+-Crono decides to warp back and attempt to save her.
+-Lucca invents the Gate key and warps into 600 A.D. to check on Crono.
+-Crono, Marle, and Lucca return. Crono is put on trial for Marle's abduction.
+-Crono is put in three days solitary confinement, then execution. Lucca rescues
+Crono.
+-Crono, Marle, and Lucca warp to 2300 A.D.
+-Crono's party warps in from the End of Time, defeats a Heckran, and learns
+that Magus supposedly created Lavos.
+-Crono's party warps to 600 A.D. to defeat Magus.
+-Crono's party warps in from 600 A.D. to have Melchior repair the Masamune.
+-Crono's party warps to 65000000 B.C. to find Dreamstone.
+-Crono's party warps in from 65000000 B.C. with Dreamstone for Melchior.
+-Melchior repairs the Masamune.
+-Crono's party returns to 600 A.D. to give the Masamune to Frog.
+-Crono's party warps in from 2300 A.D. to obtain a Crono clone from Norstein
+Bekkler.
+-Crono's party obtains the clone of Crono.
+-Crono's party warps back to 2300 A.D. to inquire further of reviving Crono.
+-Crono's party warps in to pick up Robo.
+-Crono's party has a 400th year reunion campout. It is during this that the
+Entity is discussed.
+-Lucca enters a strange, red Gate and is warped back to 990 A.D.
+-Lucca returns to the campout.
+-Where Robo once was enshrined sits a magic seed.
+-Crono's party goes to the blue pyramid, which opens after the pendant is used.
+-A Nu gives Crono's party Belthasar's weapons or helmets, the mightiest in Zeal.
+-Crono's party warps to 600 A.D. to defeat Ozzie, Slash, and Flea.
+-Crono's party returns from 600 A.D. to find a happy, peaceful Medina.
+-Crono's party warps to 2300 A.D. to defeat Mother Brain.
+*The Sun stone, obtained by Crono's party defeating the Son of Sun, is stolen
+after it is placed in Sun Keep in 65000000 B.C. by Crono's party, most likely
+by a resident of Porre.
+-Crono's party warps in from 65000000 B.C. to recover the Sun stone.
+-Crono's party determines that the Sun stone is held by the mayor of Porre.
+-Crono's party warps to 600 A.D. to give the mayor's ancestor jerky.
+-Crono's party warps back to 1000 A.D. to pick up the Sun stone.
+-Crono's party places the Sun stone back in the Keep, and warps to 2300 A.D. to
+pick it up.
+-Crono's party returns from 2300 A.D. to craft the Sun Stone.
+-Lucca crafts the Wondershot, and Taban makes Sun Shades.
+-After receiving the Sun Stone, Crono's party travels to 600 A.D. to assist
+Cyrus' ghost.
+-Crono's party arrives from 600 A.D. to obtain tools passed down in a family of
+carpenters.
+-Crono's party returns to 600 A.D.
+-Crono's party warps in from 600 A.D. to pour soda on Toma's grave.
+-Toma reveals that the Rainbow shell is at the Giant's Claw (Tyrano Lair).
+-Crono's party returns to 600 A.D. to obtain the Rainbow shell.
+-King Guardia is put on trial for supposedly selling off the Rainbow Shell.
+-Crono's party arrives from 600 A.D. to receive the Rainbow shell (presumably
+so Melchior can process it).
+-Crono's party proves the King's innocence, and duels Yakra XIII in the
+courtroom.
+-Crono's party defeats Yakra and obtains his key to the locked Chancellor.
+-Marle reconciles with her father.
+-The Chancellor is released.
+-Melchior crafts magic-deflecting armor from the Rainbow Shell.
+-Crono's party takes the Sun stone to Melchior at the Guardia Vault.
+-Melchior uses the Sun Stone and Rainbow shell to create Prism Specs and the
+Rainbow.
+-Crono's party warps to 12000 B.C. to defeat the Black Omen.
+-Crono's party returns after defeating Lavos in 12000 B.C.
+-Lucca secretly brings Kino, Doan, and King Guardia from 600 A.D. to 1000 A.D.
+-Crono is summoned to the Castle.
+-The King jokingly deceives Crono about his 'kidnapping', and reveals that he
+knows of Crono's mission to save the world.
+-Kino, Doan, and King Guardia give Crono their thanks.
+-The Moonlight Parade is held.
+-Ayla and Kino depart to 65000000 B.C.
+-Magus leaves for 12000 B.C. to search for Schala.
+-Frog and King Guardia return to 600 A.D.
+-Robo and Doan leave for 2300 A.D., a future unknown to them.
+-Crono's mom and cat accidentally enter the Gate before it closes.
+-King Guardia hangs Nadia's Bell.
+-Taban sets off fireworks by striking the Sun Stone.
+-Crono, Marle, and Lucca travel through time with the Epoch to find them.
+-U-After returning, Lucca finishes her theory on Artificial Intelligence.
+
+=>Pre-1005 A.D.
+
+-Dalton emerges from the Dimensional Vortex and begins raising an army in
+Porre.
+
+=>1005 A.D.
+
+-Led by Dalton, the Porre army destroys Guardia.
+-Dalton steals the Masamune.
+
+=>1999 A.D.
+
+-Crono's party arrives from the Black Omen in 12000 B.C.
+-Crono's party battles Lavos and enters the shell.
+-Crono's party defeats the first Lavos form.
+-Lavos mutates into the best combination of collected DNA possible.
+-Crono's party defeats Lavos's last form.
+-The defeated Lavos somehow goes to the Darkness Beyond Time and begins
+merging with Schala, who came in from the Ocean Palace.
+-Crono's party returns to 1000 A.D.
+
+=>1005 A.D. to 2300 A.D.
+
+-The Sun Palace rises from the bottom of the sea.
+
+=>2300 A.D.
+
+***CRONO'S ACTIONS IN KEYSTONE TIMELINES***
+
+*Mother Brain murders humans at the Geno Dome in her plan to create a
+robotic nation.
+-Crono, Marle, and Lucca warp in from 1000 A.D. after being chased by the
+Chancellor.
+-Crono, Marle, and Lucca learn of the Day of Lavos in the Arris Dome,
+which is controlled by the Guardia Family line.
+-Crono, Marle, and Lucca decide to save the world from Lavos.
+-A magic seed is planted in the Arris Dome.
+-A man from the Arris Dome makes his way through the ruins and plants a seed
+from the magic seed in the Trann dome.
+-Crono, Marle, and Lucca discover Robo and repair him.
+-Robo decides to help save the world; the party then warps to the End of Time.
+-Belthasar finishes the Epoch ~ Wings of Time, and passes away.
+-Crono's party warps in from 65000000 B.C. to access the Epoch.
+-Crono's party warps back to 12000 B.C.
+-Crono's party warps from the End of Time to ask Belthasar's Nu about the
+Chrono Trigger.
+-Crono's party warps to 1000 A.D. to retrieve a clone of Crono from Norstein
+Bekkler.
+-Crono's party returns from 1000 A.D. with the clone.
+-The Nu instructs Crono to climb Death Peak with the help of some Poyozo dolls.
+-Crono's party switches the Nu off.
+-Crono's party climbs Death Peak, fighting Lavos spawns along the way.
+-The Chrono Trigger shatters on top of Death Peak.
+-Crono's party is sent to the moment in which Crono died; time is frozen.
+-Crono's party replaces Crono with the doll, and returns to the End of Time.
+-Crono's party warps in from 1000 A.D. to defeat Mother Brain at the Geno Dome.
+-Crono's partly, with Robo in the lead, defeats Mother Brain. Robo is forced to
+kill his former love since she has been brainwashed by Mother Brain.
+-Crono's party flies to the Sun Palace, which has surfaced, to obtain the Sun
+stone.
+-The Son of Sun attacks Crono's party. It is the Sun stone, resisting with its
+last bit of energy.
+-Crono's party defeats the Son of Sun, and obtains the Sun Stone, which has
+regressed to a moon stone.
+-Crono's party warps to 65000000 B.C. to recharge the Sun stone.
+-Crono's party returns to 600 A.D.
+-Crono's party warps in from 1000 A.D. to pick up the Sun stone.
+-Crono's party warps back to 1000 A.D. to Lucca's house to craft the Sun stone.
+-Robo and Doan arrive here from 1000 A.D. to find a better future.
+
+***HISTORY AFTER LAVOS IS DEFEATED (KEYSTONE T-1)***
+
+-Belthasar arrives here and founds Chronopolis.
+
+=>2300 A.D. to 2400 A.D.
+-He completes FATE by integrating the Mother Brain design with a more powerful
+supercomputer.
+-Belthasar learns that Schala is trapped within the Time Devourer, and that the
+resulting being can devour time itself.
+-Belthasar plans a massive chain of events so that Serge is empowered to
+defeat the Time Devourer and free Schala with the Chrono Cross.
+-The Prometheus circuit is covertly installed in FATE, escaping detection.
+The circuit embodies Robo, who volunteered for Project Kid.
+-Belthasar builds the Neo-Epoch and erects the framework for the Time Crash.
+-Belthasar permanently leaves for the eleventh century to watch his plan unfold.
+
+=>2400 A.D.
+
+-In an experiment meant to conquer time, Chronopolis causes the Time Crash. The
+full effects of this Crash are unknown.
+-Lavos, awakened by Zeal in 12000 B.C., becomes aware of the temporally
+exposed Chronopolis and, through the Frozen Flame, pulls it back thousands of
+years in an attempt to introduce a major influence in history to corrupt Crono's
+quest.
+
+=>End of Time
+
+-Gaspar and possibly Spekkio come in from the Ocean Palace disaster.
+-Crono, Marle, Lucca, and Robo arrive at the End of Time from 2300 A.D. due to
+the Conservation of Time theorem; the End of Time is the point of least
+resistance on the timeline.
+-Crono's party meets Gaspar and Spekkio.
+-Spekkio bestows Crono's party with magic, unlocking their innate power.
+-Crono's party warps to Medina Village, 1000 A.D., and defeats a Heckran. From
+hereafter, the End of Time will be bypassed when referring to time warping.
+-Crono's party warps in from 12000 B.C. to consult Gaspar about reviving
+Crono.
+-Magus reunites with Gaspar, and recounts his life story.
+-Gaspar gives Crono's party the Chrono Trigger/Time Egg.
+-Crono's party warps to 2300 A.D. to inquire the Nu carrying Belthasar's memory
+about the Chrono Trigger.
+-Crono's party returns from 2300 A.D. and learns about events which will
+empower the party.
+-Crono's party departs for 600 A.D. to save Fiona's Forest.
+-After the defeat of Lavos, the End of Time is supposedly shut off from other
+time periods. Gaspar's fate is unknown. It may have become the Bend of Time.
+
+-------------------------------------------------------------------------------
+6.)============KEYSTONE T-2====================================================
+-------------------------------------------------------------------------------
+
+=>Unknown
+
+-Magus emerges from the Darkness Beyond Time.
+-Dejected at being unable to save Schala, Magus wipes his identity.
+-Magus awakes in a forest, feeling he needs to search for something.
+
+=>Pre-65000000 B.C.
+
+*Nu mysteriously exist.
+*Two sentient races evolve—Reptites and early humans.
+*Ioka and Laruba are established; the Tyrano Lair is also built.
+*Reptites begin to wage war on humans for control of the planet.
+-Kino appears on Mystic Mountain.
+
+=>65000000 B.C.
+
+-Nu reside at the Hunting Grounds.
+-The Ioka clan chiefly fights the Reptites; the Laruba clan hides.
+-Crono's party warps in from 1000 A.D. to find Dreamstone.
+-Crono's party meets Ayla, who throws a celebration for them.
+-Crono receives Dreamstone by defeating Ayla in a drinking contest.
+-The Gate key is stolen, but the team recover it at the Forest Lair.
+-Reptite attacks temporarily subside.
+-Crono's party warps back to 1000 A.D. to have Melchior repair the Masamune.
+-Crono's party warps in from the Magus battle in 600 A.D. to Mystic Mountain.
+-Laruba village is burned to the ground, and Kino is taken hostage.
+-Crono's party goes to the Tyrano lair to defeat Azala and free Kino.
+-Azala sees the red star and predicts the fall of Lavos.
+-Lavos lands on the planet, pushing the Tyrano Lair underground.
+-Either during the crash or later, a piece of Lavos known as the Frozen Flame
+separates from the whole.
+-Lavos is named by Ayla. La means fire, Vos means big.
+-Lavos burrows and begins absorbing the planet's energy.
+-Crono's party warps to 12000 B.C. through a Gate thought to be created by
+Lavos's impact.
+-Crono's party returns from 12000 B.C. after the Prophet seals the Gate.
+-Crono's party warps to 2300 A.D. to the Keeper's Dome.
+-Crono's party warps in from 2300 A.D. and places the Sun Stone in Sun Keep.
+
+=>65000000 B.C. To 3000000 B.C.
+
+-An Ice Age sets in due to the impact of Lavos.
+-Reptites die from the Ice Age; humans retreat underground.
+
+=>3000000 B.C.
+
+-Early humans come into contact with the Frozen Flame, sparking evolution and
+giving humanity the power of magic.
+-Some humans can use magic unaided by external power sources; others can use
+magic with assistance, while some are wholly incapable of using magic.
+
+=>3000000 B.C. to 12000 B.C.
+
+-Humans discover the Sun Stone, allowing magic use by non-innates and serving
+as a huge source of power.
+-Zeal is created and islands are raised to the sky as dwellings for the magic
+using Enlightened Ones.
+-Those totally incapable of using magic stay behind as the Earthbound.
+-Schala is born.
+-Janus is born.
+-King Zeal dies, and Queen Zeal succeeds the throne.
+-The Mammon Machine is built out of Dreamstone by the Gurus, and possibly uses
+the Frozen Flame to extract energy from Lavos.
+-A pendant used to control the Mammon Machine and work with sealed doors is
+forged by the Gurus.
+-Janus hides his magic power to avoid having to work with the new machine.
+-Schala is desginated controller of the Mammon Machine; if the Frozen Flame is
+inside, she is possibly its Arbiter.
+-Queen Zeal becomes cold and aloof.
+-The Sun Stone is discontinued as Zeal's primary power source.
+*Belthasar designs the Ocean Palace and Blackbird.
+*Magic tabs are invented by a resident of Zeal living in Kajar.
+-Dalton is placed in charge of the completion of the Ocean Palace.
+-Slave labor by the Earthbound is used at the Ocean Palace.
+
+=>12000 B.C.
+
+*Melchior forges the Masamune from Dreamstone and his dreams.
+*Melchior creates a special magic seed and gives it to a woman.
+*Magus warps in from 600 A.D. and becomes a false prophet, hoping to gain
+revenge on Lavos. He advises Queen Zeal that Crono's party may possibly
+show up, and also tells her to get rid of the three Gurus. However,
+despite them not being warped in the Ocean Palace disaster as originally
+happened, they are still preserved within their timelines (Belthasar in
+2300, Melchior in 1000, Gaspar in End of Time, Janus in 600 AD) due to
+Time Traveler's Immunity.***
+-Melchior is locked up on the Mountain of Woe.
+-Magus replaces Dalton as presider over the completion of the Ocean Palace.
+-Crono's party comes in from 65000000 B.C. through a Gate.
+-Crono's party instructs the lady in Zeal to not burn the magic seed.
+-Schala gives Janus her amulet.
+-Crono's party defeats Dalton's Golem, and are imprisoned. Freed by Schala,
+they are sent back to 65000000 B.C. The Gate is sealed.
+-Crono's party warps in on the Epoch from 2300 A.D. and visits Algetty.
+-The Mammon Machine is moved to the Ocean Palace.
+-Crono's party surmounts the Mountain of Woe and frees Melchior.
+-Schala visits Melchior in an attempt to flee the Ocean Palace, for it will not
+work without her.
+-Dalton abducts Schala and takes her to the Ocean Palace.
+-To assist with their challenging the queen, Melchior gives Crono's party the
+Ruby Knife, the prototype of the Masamune.
+-Crono's party ventures to the Ocean Palace and plunges the Ruby Knife
+into the machine, awakening Lavos in the process.
+-The Prophet reveals his identity as Magus and fails to defeat Lavos.
+-Crono tries to sacrifice himself in a futile attempt to kill Lavos.
+-At a frozen point in time, Crono's party from the future replaces him with a
+doll and extracts him to the safety of 2300 A.D.
+-Crono's party at the Ocean Palace witness his apparent death.
+-Schala sends the remaining party members to safety against Magus's will.
+-Schala is sucked into a vortex along with the Mammon Machine by Lavos.
+-At the Darkness Beyond Time, the defeated Lavos fuses with Schala to begin
+the initial stages of transformation into the Time Devourer.
+-Half of Schala's mind becomes set on destroying the world, while the other
+half wishes to save the universe and herself.
+-The Mammon Machine is returned to the Ocean Palace.
+-Lavos obliterates Zeal.
+-Zeal sinks into the sea, creating a tidal wave that covers most of the low-
+lying land with water.
+-The Sun Palace sinks into the sea with the Sun Stone inside.
+-Melchior and Janus disappeared, perphaps illustrating Time Bastard.***
+*Chronopolis arrives in the barren, iceberged sea of El Nido due to the Time
+Crash, called back in time from 2400 A.D. by the awakening Lavos as a
+possible backup plan to muck with time.
+*Dinopolis arrives, pulled from a separate dimension by the planet to
+counter Chronopolis's influence in the past.
+*The moon from the Dragonian dimension's planet arrives as well.
+*Chronopolis and Dinopolis battle; Chronopolis emerges as the victor and
+defeats and captures the Dragon God.
+*The defeated Dragon God is consumed by the Time Devourer, though the Dragon
+God can still remain on the planet in the form of avatars.
+*Chronopolis analyzes the Dragon God and pioneers Elements, devices capable
+of unleashing forces of nature. They are divided into six colors; the Dragon
+God is similarly divided to represent each color.
+-The storm causing the Ice Age abates.
+-Dalton, who survived the fall, musters his remaining troops on the saved
+Blackbird and forcefully takes over the Earthbound village.
+-Crono's party is taken prisoner on the ship.
+-Dalton and his crew give the Epoch wings and lasers.
+-In an effort to summon his Golem Boss, Dalton is sucked into a Gate to the
+Dimensional vortex.
+-The Blackbird is accidentally destroyed by the Epoch's lases.
+-Magus is found on the North Cape. He joins Crono's party after nearly dueling
+with Frog.
+-The Ocean Palace rises as the Black Omen, commanded by a Lavos-appeasing
+Queen Zeal.
+-Gates to the Lost Sanctum appear in 65000000 B.C. and 600 A.D.
+-Crono's party travels to the End of Time to consult Gaspar about reviving
+Crono.
+-Crono's party comes in from 1000 A.D. to enter the Black Omen.
+-Crono's party defeats Queen Zeal, who warps the party into the Mammon Machine.
+-Crono's party defeats the Mammon Machine.
+-Crono's party defeats Queen Zeal a second time.
+-Queen Zeal uses the Black Omen as a Gate to send the party to battle Lavos in
+1999 A.D.***
+-Magus arrives to search for Schala.
+
+***Time Traveler's Immunity and Time Bastard were proposed and illustrated at
+the Chrono Compendium's article, "Principles of Time and Dimensional Travel".
+Find it at
+http://www.chronocompendium.com/Term/Principles_of_Time_and_Dimensional_Travel
+
+***If the player loses to Lavos after fighting him through the Black Omen, the
+1999 A.D. eruption bad ending plays. Lavos also always has a defeated shell
+in every appearance after the party removes his shell. An easy explanation for
+these phenomena is that in the cut scene that plays after Queen Zeal's defeat,
+she's using the Black Omen as a blue Gate (which flashes as the Black Omen
+de-materializes) and sending the party to 1999 A.D. to fight Lavos, at which
+time he'd be at his strongest power.
+
+=>12000 B.C. to 1 A.D.
+
+-Magus discovers that Schala is in the Darkness Beyond Time, and travels
+there to save her from the Dream Devourer fusion.
+-The land warms up.
+-FATE, desiring its own paradise, terraforms the sea of El Nido and creates
+several islands, including one for each of the six Dragon Gods.
+-FATE erases the memory of certain members of Chronopolis's staff and sends
+them out to populate the islands.
+-To prevent the timeline from changing due to its influence, FATE installs
+Records of Fate in El Nido to control the actions of its inhabitants and
+ensure they never reach the mainland.
+-Presumably, the remaining crew of Chronopolis are transfigured into ghostly
+remnants, still able to do work.
+-Many sealed treasure boxes from Zeal scatter throughout civilization.
+
+=>1 A.D.
+
+-The Kingdom of Guardia is founded.
+
+=>1 A.D. to 590 A.D.
+
+*The Tyrano Lair resurfaces, and is called the Giant's Claw. It houses the
+Rainbow shell.
+*The blue pyramid, which stores Zeal's mightiest weapons, surfaces in a forest.
+*The Masamune is sealed in a cave in the Denadoro mountains.
+*A beast called Yakra haunts the forest west of Guardia, and occupies a
+cathedral when it is built there.
+*Janus warps in from 12000 B.C. due to the ocean palace disaster. He is raised
+by the Mystics and becomes a powerful mage, also taking the name Magus.
+*Glenn is picked on as a child.
+-Glenn becomes squire to Cyrus, head royal knight.
+*War between Mystics and humans is begun by Magus to gain power necessary
+to summon Lavos and avenge his sister's presumable death.
+
+=>590 A.D.
+
+-Queen Leene marries into the Guardia royal family.
+-Cyrus and Glenn recover the Hero's Medal from the Frog King.
+-Cyrus obtains the Masamune.
+-Magus breaks the Masamune in a fight with Cyrus and Glenn.
+-Cyrus is murdered by Magus and Ozzie; Glenn becomes Frog by Magus's spell.
+-Frog buries Cyrus in the Northern Ruins of Choras.
+-Cyrus haunts the ruins.
+
+=>590 A.D. to 600 A.D.
+
+-Zenan Bridge is destroyed.
+
+=>600 A.D.
+
+-King Guardia XXI reigns.
+-Queen Leene is abducted in the cathedral to the west of Guardia castle by
+Yakra.
+-Crono appears in Truce Canyon from being Gated at the Millennial Fair.
+-Marle is temporarily detained by the Entity in order to have Crono rescue
+Leene and effectively begin his adventure to save the world.
+-Lucca warps in to check on Crono's status.
+-Crono, Lucca, and Frog defeat Yakra in the west cathedral and release Queen
+Leene and the Chancellor.
+-Marle is released upon Crono's entrance into the room in which she
+disappeared.
+-Frog departs to his Cursed Woods hideaway, having failed to protect the
+queen.
+-Crono, Marle and Lucca warp out to 1000 A.D.
+*King Guardia is injured in battle.
+*Tata obtains the Hero's Medal from Frog at a bar. He is mistaken for the great
+Hero, who is prophecied to win the war.
+*Tata is instructed by the king to search the Denadoro mountains for the
+Masamune.
+-Magus's troops approach the repaired Zenan bridge.
+-Crono's party warps in from 1000 A.D. to take out Magus, who supposedly
+created Lavos.
+-Crono's party defeats Ozzie and his troops at Zenan bridge.
+-The headman chief of Sandorino village pays Toma to find the Rainbow Shell in
+order to make reflective armor.
+-Crono's party receives the broken blade of the Masamune.
+-Crono's party receives the Hero's Medal from Tata.
+-Crono's party retrieves the other part of the Masamune and warps to 1000 A.D.
+to find Melchior.
+-Crono's party warps in from 1000 A.D. and gives the Masamune to Frog.
+-Frog joins Crono's party; they leave to fight Magus.
+-Crono's party defeats Flea, Slash, Ozzie, and Magus.
+-Magus partly summons Lavos, causing a temporal distortion which engulfs all
+present. Magus is sent to 12000 B.C. Zeal, while Crono's party are warped to
+65000000 B.C. at Mystic Mountain.
+-The Mystics eventually lose the war after their leader disappears.
+-Crono arrives in 600 A.D. from the End of Time to save Fiona's Forest.
+-Crono defeats Retinite.
+-Robo decides to stay behind for the next 400 years to help plant, and a
+variant of the magic seed is planted.
+-Crono's party departs for 1000 A.D. to pick up Robo.
+-Crono's party arrives from 1000 A.D. to defeat Ozzie, Slash, and Flea.
+-After losing a second time, Ozzie, Slash, and Flea somehow warp to the Bend of
+Time.
+-Crono's party warps back to 1000 A.D. to check on Medina.
+-Crono's party warps in from 1000 A.D. to give the mayor of Porre's ancestor
+some jerky.
+-Crono's party gives her the jerky, instilling kindness in every generation
+up to 1000 A.D.
+-Crono's party warps back to 1000 A.D. to pick up the Sun stone.
+-In or around this event, Toma locates the Rainbow Shell.
+-Crono's party arrives in 600 A.D. to assist Cyrus' ghost.
+-Crono's party learns that tools are required. The party warps to 1000 A.D. to
+obtain tools.
+-Crono's party returns from 1000 A.D. with tools.
+-While hiring the carpenter, Crono's party is instructed by Toma to pour soda
+over his grave if he never finds the Rainbow Shell.
+-The ruins are slowly repaired as Crono's party and the builders exchange the
+task of repairing and exorcising the ghosts.
+-Frog visits Cyrus's grave. Cyrus appears and reveals that he could not sleep
+due to worry over the fate of those he left behind.
+-The Masamune powers up as Masa and Mune are inspired by Frog and Cyrus.
+-Crono's party warps to 1000 A.D. to pour soda on Toma's grave.
+-Crono's party returns from 1000 A.D. to obtain the Rainbow Shell.
+-Crono's party discover the Rainbow Shell within the Giant's Claw (Tyrano
+Lair).
+-Crono's party removes the Rainbow Shell with the assistance of Guardia knights.
+-Crono's party leaves for 1000 A.D. to obtain the Rainbow Shell (presumably so
+Melchior can process it).
+-Frog returns to 600 A.D. after the adventure.
+
+=>634 A.D.
+
+-On March 6th, 634 A.D., Toma passes away and is buried.
+
+=>796 A.D.
+
+-Sprigg is born.
+
+=>900 A.D.
+-U-The Viper Clan immigrates to El Nido and sets up the Acacia Dragoons.
+
+=>920 A.D.
+
+-Zenan mainlanders first began colonizing the El Nido Archipelago.***
+-Viper Manor is built by the Viper Clan.
+-Dragonians begin to reach extinction, while some El Nido natives and
+demihumans are driven to the outlying islands.
+
+***Ultimania gets this date completely wrong. To compound the problem, Steena
+states that El Nido was settled from the outside "hundreds of years ago." She
+later states correctly that it was settled one hundred years ago. This is
+apparently just a script error.
+
+=>958 A.D.
+
+-Radius is born.
+
+=>963 A.D.
+
+*Viper is born.
+*Sneff is born.
+
+=>964 A.D.
+
+-Zappa is born.
+
+=>976 A.D.
+
+-Orcha is born.
+
+=>980 A.D.
+
+-Fargo is born.
+
+=>982 A.D.
+
+-Macha is born.
+
+=>987 A.D.
+
+-Greco is born.
+
+=>988 A.D.
+
+-Skelly is born.
+
+=>600 A.D. To 990 A.D.
+
+-Fiona's Forest regrows, and a shrine is erected to Robo.
+-The tale of Glenn, Cyrus, and Magus is passed down through generations in
+Choras.
+-The Rainbow Shell is stored as a national treasure until 1000 A.D.
+*King Guardia supposedly wills that the Rainbow Shell shall be unveiled at the
+Millennial Fair. (This may have been a forgery by 1000 A.D.'s Yakra.)
+*Queen Leene composes a letter assuring Marle of the bond between her and her
+father. It is placed by the Rainbow Shell.
+*Yakra somehow regains control of the Chancellor line.
+*Masa and Mune fall asleep, giving the sword capacity for corruption.
+
+=>990 A.D.
+
+-On June 24th, Taban blows off a hike with Lucca, and her mother loses the use
+of her legs.
+-Lucca enters June 24th through a strange gate, probably granted by the Entity
+or made herself.
+-Lucca saves her mother.
+-Lucca blanks out until July 2, upon which she returns to 1000 A.D.
+
+=>992 A.D.
+
+*ZOAH IS BORN.
+*Luccia is born.
+
+=>993 A.D.
+
+*Karsh is born to Zappa and his wife.
+*Doc is born.
+
+=>994 A.D.
+
+*Guile is born.
+*Grobyc is created.
+*Norris is born.
+
+=>996 A.D.
+
+-Riddel is born.
+
+=>997 A.D.
+
+*Pierre is born.
+*Orcha is born.
+
+=>998 A.D.
+
+-Janice is born.
+
+=>990 A.D. to 1000 A.D.
+
+*Queen Aliza, Marle's mother, passes away.
+*Melchior warps in from 12000 B.C. after the Ocean Palace disaster.
+
+=>1000 A.D.
+
+-King Guardia XXXIII reigns.
+-The Millennial Fair is held.
+-Crono and Marle meet at the Fair.
+-Marle's pendant causes Lucca's new telepod to throw her back to 600 A.D. This
+is almost certainly the work of the Entity.
+-Crono decides to warp back and attempt to save her.
+-Lucca invents the Gate key and warps into 600 A.D. to check on Crono.
+-Crono, Marle, and Lucca return. Crono is put on trial for Marle's abduction.
+-Crono is put in three days solitary confinement, then execution. Lucca rescues
+Crono.
+-Crono, Marle, and Lucca warp to 2300 A.D.
+-Crono's party warps in from the End of Time, defeats a Heckran, and learns
+that Magus supposedly created Lavos.
+-Crono's party warps to 600 A.D. to defeat Magus.
+-Crono's party warps in from 600 A.D. to have Melchior repair the Masamune.
+-Crono's party warps to 65000000 B.C. to find Dreamstone.
+-Crono's party warps in from 65000000 B.C. with Dreamstone for Melchior.
+-Melchior repairs the Masamune.
+-Crono's party returns to 600 A.D. to give the Masamune to Frog.
+-Crono's party warps in from 2300 A.D. to obtain a Crono clone from Norstein
+Bekkler.
+-Crono's party obtains the clone of Crono.
+-Crono's party warps back to 2300 A.D. to inquire further of reviving Crono.
+-Crono's party warps in to pick up Robo.
+-Crono's party has a 400th year reunion campout. It is during this that the
+Entity is discussed.
+-Lucca enters a strange, red Gate and is warped back to 990 A.D.
+-Lucca returns to the campout.
+-Where Robo once was enshrined sits a magic seed.
+-Crono's party goes to the blue pyramid, which opens after the pendant is used.
+-A Nu gives Crono's party Belthasar's weapons or helmets, the mightiest in Zeal.
+-Crono's party warps to 600 A.D. to defeat Ozzie, Slash, and Flea.
+-Crono's party returns from 600 A.D. to find a happy, peaceful Medina.
+-Crono's party warps to 2300 A.D. to defeat Mother Brain.
+*The Sun stone, obtained by Crono's party defeating the Son of Sun, is stolen
+after it is placed in Sun Keep in 65000000 B.C. by Crono's party, most likely
+by a resident of Porre.
+-Crono's party warps in from 65000000 B.C. to recover the Sun stone.
+-Crono's party determines that the Sun stone is held by the mayor of Porre.
+-Crono's party warps to 600 A.D. to give the mayor's ancestor jerky.
+-Crono's party warps back to 1000 A.D. to pick up the Sun Stone.
+-Crono's party places the Sun stone back in the Keep, and warps to 2300 A.D. to
+pick it up.
+-Crono's party returns from 2300 A.D. to craft the Sun Stone.
+-Lucca crafts the Wondershot, and Taban makes Sun Shades.
+-After receiving the Sun Stone, Crono's party travels to 600 A.D. to assist
+Cyrus' ghost.
+-Crono's party arrives from 600 A.D. to obtain tools passed down in a family of
+carpenters.
+-Crono's party returns to 600 A.D.
+-Crono's party warps in from 600 A.D. to pour soda on Toma's grave.
+-Toma reveals that the Rainbow shell is at the Giant's Claw (Tyrano Lair).
+-Crono's party returns to 600 A.D. to obtain the Rainbow shell.
+-King Guardia is put on trial for supposedly selling off the Rainbow Shell.
+-Crono's party arrives from 600 A.D. to receive the Rainbow shell (presumably
+so Melchior can process it).
+-Crono's party proves the King's innocence, and duels Yakra XIII in the
+courtroom.
+-Crono's party defeats Yakra and obtains his key to the locked Chancellor.
+-Marle reconciles with her father.
+-The Chancellor is released.
+-Melchior crafts magic-deflecting armor from the Rainbow Shell.
+-Crono's party takes the Sun stone to Melchior at the Guardia Vault.
+-Melchior uses the Sun Stone and Rainbow shell to create Prism Specs and the
+Rainbow.
+-Crono's party warps to 12000 B.C. to defeat the Black Omen.
+-Crono's party returns after defeating Lavos in 12000 B.C.
+-Lucca secretly brings Kino, Doan, and King Guardia from 600 A.D. to 1000 A.D.
+-Crono is summoned to the Castle.
+-The King jokingly deceives Crono about his 'kidnapping', and reveals that he
+knows of Crono's mission to save the world.
+-Kino, Doan, and King Guardia give Crono their thanks.
+-The Moonlight Parade is held.
+-Ayla and Kino depart to 65000000 B.C.
+-Magus leaves for 12000 B.C. to search for Schala.
+-Frog and King Guardia return to 600 A.D.
+-Robo and Doan leave for 2300 A.D., a future unknown to them.
+-Crono's mom and cat accidentally enter the Gate before it closes.
+-King Guardia hangs Nadia's Bell.
+-Taban sets off fireworks by striking the Sun Stone.
+-Crono, Marle, and Lucca travel through time with the Epoch to find them.
+-U-After returning, Lucca finishes her theory on Artificial Intelligence.
+
+=>1001 A.D.
+
+*Nikki is born.
+*Miki is born.
+
+=>1003 A.D.
+
+*Serge is born.
+-U-Viper, Radius, Garai and Zappa receive mainland appointments.
+
+=>1004 A.D.
+
+*Korcha is born.
+*Leena is born.
+*Irenes is born.
+*With the threat of her mind becoming dominantly hateful, Schala clones herself
+and sends the copy to this year.
+-Schala imparts her pendant to Kid. The pendant was altered so that if Kid were
+ever found in a dangerous situation, it would rewind time a bit to a more safer
+situation.
+-Lucca finds Kid in a forest.
+
+=>Pre-1005 A.D.
+
+-Dalton emerges from the Dimensional Vortex and begins raising an army in
+Porre.
+
+=>1005 A.D.
+
+-Led by Dalton, the Porre army destroys Guardia.
+*The Acacia Dragoons may have taken part in the battle, as activity on the
+'mainland' is alluded to in this year by Radius.
+-Dalton steals the Masamune.
+-The Masamune is covered in blood, possibly corrupting it as Masa and Mune are
+asleep.
+-Radius and Garai locate the Masamune in an unknown location.
+-Radius kills Garai with the Masamune (it is believed to have occurred in
+1005 A.D. since Radius alludes to the last time  Zappa, Garai, and Radius
+tearing up the battlefield as fifteen years ago).
+-Radius lays Garai to rest at the Isle of the Damned.
+
+=>1006 A.D.
+
+*Van is born.
+-Serge is attacked by a panther demon.
+-Serge's father, Wazuki, and Leene's father, Miguel, set out for Marbule
+to seek medical help.
+-After hearing Serge's crying in 12000 B.C., Schala attempts to make contact
+with this time, causing a huge magnetic storm.
+-The storm blows Wazuki and Miguel off-course, and causes the sytems of
+Chronopolis to go offline.
+-Wazuki and Miguel lose consciousness and wake to find themselves in the Sea
+of Eden.
+-After landing at Chronopolis, Wazuki is instructed by the Flame to bring Serge
+to it.
+-Contact with the Flame heals Serge and designates him the Arbiter.
+-Wazuki is corrupted by the Frozen Flame.
+-Harle is created by the Dragons in the appearance of an 18 year old girl while
+Chronopolis's power is down.
+-Chronopolis's systems power back up, and will only grant access to the Flame
+to the Arbiter, Serge. This can be attributed to the Prometheus circuit.
+-Miguel is captured by FATE while Wazuki and Serge escape.
+
+=>1007 A.D.
+
+-U-Radius and Garai locate the Masamune on the mainland; Garai is slain.
+-U-Lucca finds Kid and adopts her.
+
+=>1000 A.D. to 1010 A.D.
+
+*Lucca proposes that time travel is possible with a Time Egg, which utilizes
+miniature black holes. The first Chrono Trigger was a Time Egg.
+*Lucca learns of Kid's heritage somehow.
+*Lucca, at some points, demonstrates the ability to construct incomplete Time
+Eggs, providing Kid with one.
+*Lucca also gives Kid an amulet (really a bag with the Zeal emblem containing
+a piece of wood inside).
+*Lucca composes a letter to Luccia and leaves it with her.
+
+=>1010 A.D.
+
+-Wazuki attempts to kill Serge, totally losing it in the process and becoming
+Lynx.
+-The dimensions split depending on the outcome (see Home, Another timelines).
+
+-------------------------------------------------------------------------------
+7.)=============MID-DIMENSION TIMELINES========================================
+-------------------------------------------------------------------------------
+
+-In the beginning, Chronopolis creates Keystone T-2 by being moved to the past.
+-Another World (A) - Timeline(s) created by Belthasar's trip back to the modern
+era to observe Project Kid and make adjustments with the Neo-Epoch.
+-Another World (B) - Timeline created by Kid's possible introduction in 1004
+A.D.
+-Kid saves Serge after 1020 A.D. in Another World (B), causing the dimensional
+split and creation of Home World (A).
+-Serge travels to Another World from Home World (A) in 1020 A.D., rewriting
+Kid's history and creating Another World (C).
+-Serge travels back to 1015 A.D. to free Kid's mind from the orphanage
+incident, creating Another World (D).
+
+-------------------------------------------------------------------------------
+8.)=============HOME TIMELINE==================================================
+-------------------------------------------------------------------------------
+
+=>1010 A.D.
+
+-Serge is saved by Kid, traveling back in time from 1020 A.D. in Another
+World.
+-Due to Serge's survival, the future averted by Crono in which Lavos destroys
+the world comes back into existence, causing Chronopolis to cease to exist.
+The Home Dimension's Records of Fate cannot transmit data as a result.
+*FATE instates Miguel as the guardian of the Dead Sea, presumably because the
+Frozen Flame of that world still lies there.
+*Without FATE to instruct him, Kiki's father becomes a fisherman.
+*Mel is born.
+
+=>1011 A.D.
+
+-U-Fargo and Zelbess attempt to flee from General Viper.
+-U-Luccia tries to help, but ends up helping the children only.
+-U-Marcy is born.
+-U-Zelbess dies.
+-U-Fargo entrusts Nikki to a traveler.
+-U-Fargo changes his ship to the S.S. Zelbess, an entertainment cruiseliner.
+
+=>1014 A.D.
+
+-Leah is born.***
+
+***There is common speculation that Leah came to Gaia's Navel by some warp in
+time. This is not altogether out of the question, considering Gaia's Navel was
+always present in the sea of El Nido, and not one of the terraformed islands
+created by Chronopolis; also, two gates existed in 65000000 B.C. in Chrono
+Trigger, and Kino was found atop Mystic Mountain as a baby. Perhaps Leah went
+back to that era and then mothered Ayla; however, remember that this would
+have had to happen before the actions of Crono as well, as they depend on
+Ayla's existence, meaning if the theory is true, Leah had to return to
+65000000 B.C. in the Lavos timeline or not visit Gaia's Navel at all.
+
+=>1015 A.D.
+
+*NeoFio is planted.
+-U-Leena and Serge make a promise on Cape Howl.
+
+=>1016 A.D.
+
+-Dario inherits the Einlanzer.
+-Radius becomes chief of Arni.
+-U-Lynx approaches General Viper about the Frozen Flame.
+
+=>1010 A.D. to 1017 A.D.
+
+-Lynx approaches Porre about the Frozen Flame in El Nido, prompting the
+dispatch of Norris to Viper Manor as a spy.
+-Norris is recalled back to Porre.
+
+=>1017 A.D.
+
+*Luccia loses her brother in a freak accident in a Porre lab, prompting her
+to come to El Nido. Note that this accident could be an explosion set by
+Norris to destroy Grobyc's level seven tech, the StrongArm. However, this may
+have taken place in either dimension as well, which would explain how an
+intact arm resides at Chronopolis.
+*Porre assumes control of El Nido.
+*Dario and Riddel probably plan to marry, as occurs in Another Timeline.
+-The Acacia Dragoons set out to explore the Isle of the Damned.
+-Dario is severely wounded due to his corruption by the Masamune.
+-Dario drifts to Forbidden Island, barely clinging to life.
+-Most Acacia Dragoons travel to the Dead Sea and become frozen in time and
+partially phased out of existence standing before the vortex that leads
+to Miguel. This is probably done by Lynx to ensure that the Dragoons, now no
+longer controlled by the Records of Fate, don't cause problems in history.***
+-Solt and Pepper somehow survive the incident with amnesia and are taken in by
+Sneff to the S.S. Zelbess, using the names "Lank" and "Stout".
+
+*** There is some confusion regarding this event due to the game's script.
+Specifically, dialogue in Another World establishes Dario's corruption as
+having occurred in 1017 A.D. This is supported by dialogue in Home World.
+However, there are two instances in Home World where both the freezing of the
+Acacia Dragoons and Dario's corruption are alluded to as having occurred in
+1016 A.D. Since these are isolated references, and considering that all other
+evidence supports the date of 1017 A.D., these "four year" allusions are
+probably oversights by the script writers and should be ignored. Also, while
+the corruption event is never explicitly depicted in Home World, it is safe
+to conclude that it did as Dario still has ties to the Masamune in that world
+and must be battled while wielding it.
+
+=>1017 A.D. to 1020 A.D.
+
+*FATE presumably plants the Masamune in Death's Door to prevent entrance to the
+Dead Sea.
+*Starky's UFO crashes in El Nido Triangle, and is destroyed.
+*Toma XIV becomes financially unstable and must garden for Radius in Arni.
+*Norris returns to investigate Viper Manor, finding evidence that the
+Dragoons sailed to the Dead Sea.
+
+=>1020 A.D.
+
+-Serge has a troubling dream of Fort Dragonia.
+-After waking up, Serge is instructed by Leena to find three Komodo scales and
+meet her at Opassa Beach.
+-While at Opassa Beach, Serge passes out and crosses Angelus Errare to Another
+dimension.
+-Serge returns to find the Water Dragon's breath.
+-Serge retrives the Water Dragon's breath at Water Dragon Isle, which has been
+invaded by dwarves.
+-Serge's party returns to Another World.
+-Radius leaves Arni.
+-Serge, now with the body of Lynx, returns from the Temporal Distortion in
+the Hydra Marsh with Sprigg and Harle.
+-A decision is made that Serge must enter the Dead Sea, but only the Sage of
+Marbule supposedly knows how to gain access.
+-Serge recruits Norris, which enables sea travel by a Porre military craft.
+-Serge ventures to Marbule, only to find the village deserted and Irenes
+crying at night.
+-Irenes provokes Serge to go to the S.S. Zelbess.
+-Serge locates the Sage of Marbule in the Grand Slam room.
+-The Sage of Marbule gives Serge's party the Fiddler Crab.
+-Nikki asks the Sage to teach him Marbule's song, which will restore the
+island.
+-Serge opens up a path to Death's Door with the Fiddler Crab.
+-Serge's party ventures to the Isle of the Damned to retrieve the Einlanzer in
+order to block the Masamune, which is sealing off the Dead Sea.
+-Serge's party defeats Garai, and obtains the Einlanzer.
+-Serge's party enters the Dead Sea.
+-Serge encounters ghostly apparitions of Crono, Marle, and Lucca.
+-Serge defeats Miguel, Leena's father, and restores the dimensional distortion
+(Where angels lose their way).
+-Serge travels to Another World.
+-Serge's party returns from Another World.
+-Fargo from Another World takes command of the S.S. Zelbess and steers it to
+Marbule.
+-The Magical Dreamers play Marbule's song while Serge's party defeats the
+nightmare monsters, thus freeing the Black Dragon from slumber.
+-Serge's party defeats the six dragons.
+-Serge's party uses the seal of Guldove to obtain the intact Dragon Tear.
+-Serge's party visits Forbidden Island, discovering Dario.
+-Dario defeats his amnesia, after which the Masamune appears to him.
+-Dario attacks Serge's party; he is defeated.
+-The Masamune is purged of evil as Masa and Mune awake and converts to the
+Mastermune once Doreen (their sister) arrives.
+-Dario begins rebuilding Viper Manor as a childrens' center.
+-Serge uses the Dragon Tear at Fort Dragonia to regain his old body.
+-Serge's party ventures to the Dead Sea and uses a FATE distortion to cross
+the dimensions.
+-Serge's party returns and consults with ghosts of Crono's party at Opassa
+Beach.
+-Serge's party uses the Time Egg to enter the Darkness Beyond Time, also
+known as the Tesseract.
+-Serge's party aligns the element song and uses the Chrono Cross.
+-The Time Devourer is annihilated and Schala is freed.
+-The dimensions merge back into a single dimension.
+
+=>15410 A.D.
+
+-Miguel is interred at Nadia's Bell as a guardian of Home World's Frozen Flame.
+
+=>15420 A.D.
+
+-The Dead Sea, specifically Nadia's Bell, is viewed and exists in this year
+relative to Serge's party in 1020 A.D.
+-Miguel battles Serge for access to the Frozen Flame, and loses.
+-FATE dissolves the Gate effect allowing the Dead Sea to exist, and destroys
+the Frozen Flame.***
+
+*** For more on this, consult
+http://www.chronocompendium.com/Term/Salt_for_the_Dead_Sea
+
+-------------------------------------------------------------------------------
+9.)===========ANOTHER TIMELINE=================================================
+-------------------------------------------------------------------------------
+
+=>1010 A.D.
+
+-Serge is killed by Wazuki.
+*Mel is born.
+*Kiki's father becomes an occultist, and places Mojo on a shrine in his room.
+*Marge passes away.
+
+=>1011 A.D.
+
+-U-Fargo and Zelbess attempt to flee from General Viper.
+-U-Luccia tries to help, but ends up helping the children only.
+-U-Marcy is born.
+-U-Zelbess dies.
+-U-Fargo entrusts Nikki to a traveler.
+-U-Fargo changes his ship to the S.S. Invincible and hides it as a ghost ship.
+-U-Fargo begins attacking boats under General Viper's command.
+
+=>1014 A.D.
+
+-Leah is born.***
+
+***There is common speculation that Leah came to Gaia's Navel by some warp in
+time. This is not altogether out of the question, considering Gaia's Navel was
+always present in the sea of El Nido, and not one of the terraformed islands
+created by Chronopolis; also, two gates existed in 65000000 B.C. in Chrono
+Trigger, and Kino was found atop Mystic Mountain as a baby. Perhaps Leah went
+back to that era and then mothered Ayla; however, remember that this would
+have had to happen before the actions of Crono as well, as they depend on
+Ayla's existence, meaning if the theory is true, Leah had to return to
+65000000 B.C. in the Lavos timeline or not visit Gaia's Navel at all.
+
+=>1015 A.D.
+
+-NeoFio is planted.
+*It is believed that during 1015 A.D., Lynx attacks Lucca's orphanage and
+abducts Lucca in a vain attempt to release the lock on the Frozen Flame.
+-Kid becomes trapped in her memory of this experience in 1020 A.D.
+-Serge's party comes here thanks to the power of Masa, Mune, Doreen, and Kid's
+Astral Amulet.
+-Serge's party saves children and assists Kid's escape.***
+-Kid escapes, vowing to seek vengeance for Lucca.
+
+***Note that Kid escaped originally, even before Serge intervened to bring Kid
+out of this memory. Otherwise, this would be a causal loop - that is, Kid's
+meeting Serge depends on his saving her, which depends on his meeting her, and
+so on.
+
+=>1016 A.D.
+
+-Dario inherits the Einlanzer.
+-Radius presumably retires from the Dragoons.
+-Radius comes to live in Hermit's Hideaway.
+-U-Lynx first approaches General Viper about the Frozen Flame.
+
+=>1017 A.D.
+
+*Luccia loses her brother in a freak accident in a Porre lab, prompting her
+to come to El Nido. Note that this accident could be an explosion set by
+Norris to destroy Grobyc's level seven tech, the StrongArm. However, this may
+have taken place in either dimension as well, which would explain how an
+intact arm resides at Chronopolis.
+-Dario and Riddel pledge to marry.
+-The Acacia Dragoons set out to explore the Isle of the Damned.
+-Dario dies at the Isle of the Damned due to his corruption by the Masamune.
+
+=>1017 A.D. to 1020 A.D.
+
+-Luccia begins using Dragonian robots from Fort Dragonia to guard Viper Manor.
+*Starky's UFO crashes in El Nido Triangle.
+*Lynx approaches Porre about the Frozen Flame.
+-Norris becomes a spy inside Viper Manor.
+*Orcha goes to work for Viper Manor.
+-The Dragon Tear is stolen from Guldove by Hell's Cook, Orcha.
+*An envoy from Porre arrives at Viper Manor about the Frozen Flame.
+*Belthasar arrives and takes up the position of researcher at Viper Manor.
+
+=>1020 A.D.
+
+-Lynx begins corrupting General Viper, and sends out Karsh, Solt, and Peppor
+to intercept Serge (FATE calculated/predicted Serge would cross the
+dimensions).
+-Kid (apparently the version of her that saved him on the beach) calls Serge
+into the Another World dimension.
+-Serge arrives from the Home dimension.
+-Learning of Another Serge's death in 1010 A.D., Serge visits his gravesite.
+-Karsh, Solt, and Pepper attempt to apprehend Serge, but he is saved by Kid
+(a younger version predating the involvement in Project Kid). FATE knew Home
+Serge would likely cross the dimensions, and was prepared accordingly.
+-Serge's party rests in Arni for the night.
+-Serge's party reaches Termina, and acquires Kid, and either Guile, Nikki, or
+Pierre.
+-Serge's party infiltrates Viper Manor and speaks to Belthasar.
+-The Dragon tear flickers as Serge nears it in Viper's quarters.
+-Lynx refers to Serge as the Assassin of Time and Chrono Trigger, as Serge's
+existence could make or break spacetime.***
+-Lynx poisons Kid with Hydra Venom as Serge's party narrowly escapes to
+Guldove.
+-Korcha takes Serge's party to Guldove.
+-Word arrives of Porre's interest in the Frozen Flame and El Nido.
+-Lynx, General Viper, and the Acacia Dragoons occupy a position at Fort
+Dragonia to defend the island from Porre.
+-Glenn is charged to stay behind at the manor with Riddel.
+-Serge's party decides either to look for Hydra Humour or give up. If the party
+does not quest for it, Norris will stop by and administer some.
+-Serge's party is advised by Glenn to visit Radius in Hermit's Hideaway.
+-Harle burns Hermit's Hideaway down.
+-Harle delays Serge's party, who speaks to Radius after a short fight.
+-Serge's party departs for Fort Dragonia, but is captured by Fargo on the S.S.
+Invincible.
+-Serge's party defeats an onslaught of ghosts on Fargo's ship.
+-Fargo instructs Serge to obtain the Water Dragon's Ice Breath in order to
+cross Mount Pyre.
+-Kid is saved either by Serge's extraction of Hydra Humour from Home World or
+the administering of it to Kid by Norris in Another World.
+-Serge uses Kid's Astral Amulet to return to the Home World.
+-Serge comes back to Another World with the Water Dragon's breath.
+-Serge's party crosses Mount Pyre, defeating the Devas along the way.
+-Serge's party ascends Fort Dragonia, eventually battling with Lynx.
+-Using the Dragon Tear, Lynx switches bodies with Serge so that he can gain
+access to the Frozen Flame in Chronopolis.
+-Serge is sent to the Temporal Vortex, where he meets Sprigg.
+-Lynx brainwashes Kid to become his goon.
+-Serge is guided back to reality by Harle and Sprigg.
+*Porre successfully invades El Nido.
+-Fargo is captured and the S.S. Invincible subdued.
+-The three Devas go into hiding.
+-Monsters somehow abound on the mainland.
+-Arni residents begin hiding from 'Dark Serge' (it is arguable whether Lynx
+actually terrorized the maindland as they claim).
+-Serge's party comes in from Home World.
+-Grobyc arrives from Porre.
+-Serge's party, accompanied by a Deva, enters Viper Manor to save Riddel.
+-Serge's party frees Riddel, and battles Guillot and Grobyc.
+-Serge's party escapes from Viper Manor, and the Porre military decides to
+withdraw from El Nido.
+-Serge's party ventures to Burned Out-Hermit's Hideaway, where the Devas
+are tending to General Viper.
+-Lynx, using Kid, stages an attack on Hermit's Hideaway.
+-Fargo rescues the Devas and Serge's party with S.S. Invincible.
+-Lynx leaves for the Sea of Eden.
+-Solt and Peppor confront Karsh at the Isle of the Damned.
+-Serge's party leaves for Home World.
+-Lynx and Kid enter Chronopolis.
+-Serge's party arrives in the Sea of Eden.
+-Serge's party enters Chronopolis.
+-Lynx puts Kid to sleep.
+-Serge's party accidentally discovers the Radical Dreamers - Le Trésor Interdit
+dimension while fooling with an archival machine.
+-Serge's party enters the Frozen Flame room.
+-Having Serge where it wants him, FATE attempts to kill Serge.
+-Serge destroys FATE.
+-Now that nothing is guarding the Frozen Flame, the Dragon Gods unite and take
+it from Chronopolis.
+-Kid becomes overwhelmed by a past event, the burning of the orphanage, and
+goes into a coma.
+-Serge's party escapes from Chronopolis and meets at the S.S. Invincible.
+-Masa and Mune "recognize" Kid as Princess Schala, and spirit Serge's party
+into the past to help free her by using the Astral Amulet.
+-Kid awakens from the coma.
+-Serge's party goes to Viper Manor to receive a letter addressed to Kid from
+Luccia.
+-Serge's party retrieves a device that counters gravity from Starky's UFO.
+-Serge's party enters Terra Tower.
+-Belthasar uses illusory music to adjoin a section of Viper Manor to Terra
+Tower.
+-Belthasar educates Serge's party.
+-Serge's party forges ahead to the summit of Terra Tower.
+-Serge approaches the Flame.
+-Serge's party battles the Dragon God, named the TimeDevourer due to its
+being long-since devoured by the real Time Devourer.
+-Serge's party defeats the Dragon God; Terra Tower transforms.
+-Serge's party is instructed by Belthasar to battle the Time Devourer.
+-Serge's party heads to Opassa Beach in Home World.
+
+*** There is an overarching plot line that did not totally make it into Chrono
+Cross. It suggested that if Serge did not stop the Time Devourer, he would
+inevitably merge with it too, and that this would complete the being and result
+in the death of spacetime. Lynx's calling him the "Assassin of Time" is very
+suited for describing this outcome. For more on this plot line, read:
+
+http://www.chronocompendium.com/Term/Chrono_Cross_Condensed_Plot_Summary
+
+-------------------------------------------------------------------------------
+A.)===========IDEAL TIMELINE===================================================
+-------------------------------------------------------------------------------
+
+=>1020 A.D.
+
+-The dimensions merge, perhaps creating an ideal dimension. Serge lives.
+-Serge supposedly forgets all memories of the adventure.
+
+=>1020 A.D. to 2300 A.D.
+
+-Serge possibly marries Kid, as evidenced by a wedding photograph.
+*Schala's fate is totally unknown, along with the fates of Serge's party and
+the state of the world after Chrono Cross.***
+*The Sun Palace most likely rises from the bottom of the sea.
+
+*** Chrono Cross's ending is so open-ended that hardly anything can be
+inferred, leaving this timeline mostly blank. For speculation based on the few
+known facts of the ending, see this article:
+
+http://www.chronocompendium.com/Term/Chrono_Cross_Resolutions
+
+-------------------------------------------------------------------------------
+B.)========RADICAL DREAMERS TIMELINE===========================================
+-------------------------------------------------------------------------------
+
+=>65000000 B.C.
+
+-Either during the crash or later, a piece of Lavos known as the Frozen Flame
+separates from the whole.
+
+=>12000 B.C.
+
+-Melchior, in addition to forging the Masamune, probably forges the
+Einlanzer.
+-The Frozen Flame is involved with Zeal in some manner, possibly being used
+inside the Mammon Machine with Schala as its Arbiter.
+-Zeal is destroyed; Schala survives the incident and is plagued with guilt.
+-The Frozen Flame alters Schala, unaging her and send her to modern times.
+
+=>12000 B.C. to 1000 A.D.
+
+-The Frozen Flame is presumably kept by Guardia.
+
+=>1000 A.D.
+
+-Magus departs to 12000 B.C. and probably learns of Kid's existence.
+
+=>Post-1000 A.D.
+
+-Guardia falls, presumably to Porre.
+*Crono presumably dies.
+*General Viper comes into possession of the Frozen Flame.
+-Schala appears in this era as an infant.
+*Kid is taken in by Lucca.
+-Lucca gives Kid a Time Egg, believed to be the Chrono Trigger. Lucca tells
+Kid to acquire the Frozen Flame someday so that she may place it on her dead
+friend's grave. These two facts imply that her dead friend is Crono, and that
+his party, despite defeating Lavos, never used the Chrono Trigger to revive
+him.
+
+=>Post-1000 A.D., 4-5 Years Before Radical Dreamers
+
+-Lynx murders Lucca.
+-Kid infiltrates Viper Manor in an attempt at revenge.
+-Kid is caught, and Magil rescues her.
+
+=>Post-1000 A.D., Pre-Radical Dreamers
+
+-Viper Manor is built over remains of Zeal, interred underground.
+-General Viper fathers Riddel.
+-Esmeld becomes briefly involved with Riddel.
+*Magus disguises himself as Magil.
+*A Porre spy works at the Manor.
+-Lynx befriends General Viper.
+*Lynx launches a coup that results in the capture of Viper Manor and possession
+of the Frozen Flame.
+-General Viper and presumably Devas (Merkid, Gorba) perish, while one man, a
+traitor, survives.
+-Lynx adopts Riddel as his daughter.
+-Magil begins accompanying Kid.
+-Serge becomes a drifter and musician.
+-Serge meets Kid in Regiorra.
+-Porre begins readying an assault on Viper Manor.
+
+=>Post-1000 A.D., Radical Dreamers
+
+-Kid, Serge, and Magil break into Viper Manor.
+-Kid confronts Lynx.
+-Her Chrono Trigger shatters.
+-Serge, and possibly the others, is thrown into a temporal disruption.
+-Kid remembers that she is Schala.
+-Lynx escapes the cavern as Porre soldiers assume control of it.
+-Magil and Kid escape, and Serge is left alone.
+
+=>Post-1000 A.D., Post-Radical Dreamers
+
+-Serge recounts the events of Radical Dreamers in a diary.
+-Serge's grandson reads the diary, and possibly embarks on an adventure to
+explore Viper Manor.
+-The events of Radical Dreamers are repeated endlessly in similar dimensions.
+
+-------------------------------------------------------------------------------
+C.)========================BEND OF TIME========================================
+-------------------------------------------------------------------------------
+
+-The Bend of Time is somehow created, perhaps as a point of least resistance
+between dimensions.
+-Gaspar or Spekkio possibly build architecture to accomodate fighting.
+-Ozzie, Slash, and Flea somehow arrive here.
+-Serge trains here and defeats the Mystical Knights.
+-The Bend of Time presumably phases out of existence when the dimensions are
+combined.
+
+-------------------------------------------------------------------------------
+D.)======================DARKNESS BEYOND TIME==================================
+-------------------------------------------------------------------------------
+
+-The Darkness Beyond Time exists as a repository of discarded timelines of the
+Keystone Dimension.
+-The Darkness Beyond Time's timeline runs "perpindicular" to the outside world.
+-Schala is transported here in the Keystone timelines in the Ocean Palace
+incident.
+-The defeated Lavos somehow comes here.
+-Lavos, even in his defeated and condemned state, is able to fuse Schala onto
+himself to create the Dream Devourer.
+-Schala endorses the fusion due to her desire to destroy all existence.
+-The Dream Devourer begins maturing and feeds on dreams, thoughts, and
+memories.
+-Magus finds his way and tries to rescue Schala, but is defeated.
+-Schala awakens and tells him he can't save her.
+-Schala sends Magus away and returns to sleep.
+-The Dream Devourer matures into the Time Devourer, which begins its own
+maturation process.
+-The Darkness Beyond Time remains the same for both the Home and Another
+Dimensions upon the Keystone Dimension's split.
+-Serge's party arrives here via the Time Egg and possibly the Frozen Flame, and
+defeats the Time Devourer.
+-Schala is freed, and Serge's party is returned to the Ideal Timeline.
+
+-------------------------------------------------------------------------------
+E.)=========================TEMPORAL VORTEX====================================
+-------------------------------------------------------------------------------
+
+-The anomalistic temporal vortex somehow discovered and adapted for living.
+-Sprigg is banished here for an unknown reason, and lives here.
+-Serge comes in from 1020 A.D. in the form of Lynx.
+-Harle assists Serge in escaping with Sprigg.
+
+-------------------------------------------------------------------------------
+F.) Dimensional Vortex
+-------------------------------------------------------------------------------
+
+-The Dimensional Vortex, a frail area of space-time in which many temporal
+fragments cross and accumulate, exists.
+-A strange Temporal Research Lab exists as one of the fragments.
+-Dalton arrives from his battle with the party in 12000 B.C.
+-Angry at the heroes for stopping his plans to rule the era, he discovers the
+Kingdom of Guardia from his temporal vantagepoint and plans to destroy it.
+-Dalton departs to the present era to raise an army in Porre and destroy
+Guardia.
+
+-------------------------------------------------------------------------------
+G.) Lost Sanctum
+-------------------------------------------------------------------------------
+
+=>Pre-65000000 B.c.
+
+-A large swath of land in which a Reptite village exists separates from the
+normal flow of time, becoming a self-contained dimension.
+-Monsters invade the surrounding areas, forcing the Reptites to hide in their
+dwellings.
+
+=>65000000 B.C.
+
+-Crono's party arrives to explore and defeats the monsters.
+-The Reptites emerge and thank the party, and then request other favors. The
+first favor is to find the Golden Hammer.
+-The party find Golden Sand in the swamp to the south and sprinkle it on a
+sapling in the Millennia Wood.
+-The party travel to 600 A.D.
+-The party return and deliver the Golden Hammer.
+-A Reptite with a sickly child asks the party to find the Prismastone.
+-The party climb Mount Emerald, defeat the Nu Guardian, and found the
+Prismastone.
+-The Nu Guardian swears to train until he can face the party again one day.
+-The party decide to create a Saintstone with two Prismastones and leave to
+600 A.D.
+-The party returns, creates the Saintstone, and unfolds the new ladder.
+-The party returns to 600 A.D.
+-The party return to find Godwood and borrow the Golden Hammer, then leave
+to 600 A.D.
+-The party come back from the Middle Ages and leave the Saintstone atop
+Mount Emerald, then leave again.
+-The party return with the Waystone and use it to enter the Winding Passage.
+-The party discover the Archaeofang monsters are planning an attack.
+-The party defeat the Archaeofangs and return to the Middle Ages.
+-The party return, find a Sweet Banana, and leave again.
+
+=>65000000 B.C. to 600 A.D.
+
+*The Great Southern Swamp turns into the Southern Glade.
+*A rope ladder on Mount Emerald breaks.
+*The Nu Guardian trains and becomes the Nu Master.
+*The Reptites build a tower in honor of the heroes.
+-The tower becomes corrupted by evil spirits.
+
+=>600 A.D.
+
+-The party arrive and introduce themselves to the Reptites' descendants.
+-The party defeat monsters in the Millennia Wood and take the Golden Hammer.
+-The party return to prehistory.
+-The party arrive and find the Reptmark in order to get the Prismastone, which
+was left in the shrine since prehistory.
+-The party hear about the Nu Guardian, now a Nu Master. They can't reach him
+because of a downed ladder on Mount Emerald.
+-A Reptite makes a new ladder, and the party travels with it to prehistory.
+-The party return and climb the mountain.
+-The party defeat the Nu Master and befriend him.
+-A Reptite wants to build a Great Bridge to a distant tower at Mount Emerald.
+-The party agree to help, and find a Steel Ingot in the Winding Passage.
+-The party depart to prehistory to find more materials.
+-The party return and collect a reward for the bridge materials.
+-The party return to prehistory.
+-The party return and find the Saintstone has become a Waystone.
+-The party departs for prehistory.
+-The party return and save the bridge builder from falling.
+-The Nu Master wants to help the bridge, but he wants a Sweet Banana.
+-The party depart to prehistory to find a Sweet Banana.
+-The party return and feed the Nu, who completes the bridge.
+-Reptites warn of spirits in the tower now accessible by the bridge.
+-The party investigate and defeat the spirits.
+-The party find that the Heavenly Idols inside the tower spoken of by the
+Reptites are statues of the party built in prehistory.
+-Amused at their legacy, the party leave after having a couple items forged.
+
+-------------------------------------------------------------------------------
+H.) Credits and Thanks
+-------------------------------------------------------------------------------
+
+Ramsus for Chrono Compendium, http://www.chronocompendium.com
+
+Chrono Compendium forumites and contributors for realizing the dream of the
+Compendium. Chrono'99 for bringing a couple important points to light.
+
+KWhazit for retranslating Chrono Trigger. Hell yes.
+
+Masato Kato for writing the series and believing in his vision. Also, for
+wanting to create a new Chrono game back in 2001!
+
+Yasunori Mitsuda for creating beautiful and inspirational music.
+
+Demiforce and crew for translating Radical Dreamers.
+
+The heroes. We're on the cruise in the springtime of youth.
+
+-------------------------------------------------------------------------------
+Copyright 2003-2025 ZeaLitY
+-------------------------------------------------------------------------------
