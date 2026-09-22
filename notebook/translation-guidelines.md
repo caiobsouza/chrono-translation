@@ -252,6 +252,10 @@ era and episode name with its length limit and an empty `ptbr` column, plus the 
 Fill it first, review it, and only then translate the running text. If a term is in the glossary, use
 that exact form everywhere, with no variation for style.
 
+The glossary also holds 83 `term` rows with the agreed translation of the recurring story terms
+(Masamune, Portal, Concha Arco-Íris, Palácio do Oceano and so on). A mark such as (m) or (f) is the
+grammatical gender, for agreement only.
+
 Policy for proper nouns (P):
 
 - Keep unchanged: character names, and invented place, group and creature names that are not
@@ -301,7 +305,7 @@ Per character (P, confirm or correct these against the lines in the script):
 | Crono | Silent. Only a few choices and `...` lines. | Keep `...` and short replies. |
 | Marle | Bubbly, warm, impulsive, a princess who hides it. | Informal, exclamations, `pra`/`né`. |
 | Lucca | Sharp, technical, confident, a little bossy. | Precise words, quick sentences. |
-| Frog | Knightly and archaic. | Old-fashioned words (`deveras`, `outrora`, `mui`, `ó`, `cavaleiro`), full sentences, no slang. Decide the address form, see section 10. |
+| Frog | Knightly and archaic. | `você` with a few old-fashioned words (`deveras`, `outrora`, `mui`, `ó`, `cavaleiro`), full sentences, no slang. No `vós` forms (`passai`, `vossa`) except the title `Vossa Majestade`. |
 | Robo (`Robos`) | Polite, precise, a bit stiff, literal. | Formal `você`, complete sentences, no slang. |
 | Ayla | Cavewoman, primitive grammar, third person. | Short sentences, infinitive verbs, `Ayla` for herself, occasional capitals for shouting. |
 | Magus | Cold, formal, sarcastic. | Short, controlled sentences, no exclamation marks unless the source has them. |
@@ -347,6 +351,8 @@ Ways to fit, in this order:
 
 - Keep the source's `!`, `?`, `!?` and `...` habits. Do not add `!` for emphasis the English does
   not have.
+- Sound effects: adapt short ones to Portuguese (`Whoosh` becomes `Fiuu`, `Grribit` becomes
+  `Crroac`) and keep cries that have no Portuguese form, such as `GRAAAACK`.
 - No `¿` or `¡`. Portuguese does not use them.
 - Numbers: use `.` as the thousands separator (`65.000.000`), which is a `.` glyph (3 px). Dates
   such as `1000AD` become `1000 d.C.` only if it fits, otherwise keep the source form.
@@ -424,8 +430,8 @@ These need your answer before the agent runs at scale. My recommendation is in b
 2. **Variable width 8px font.** It would raise the name limits from 10 or 11 to about 16 characters
    but it crashes the tool here and works only in emulators. **Recommendation: skip it for now,
    design names for 11 characters, revisit if too many names suffer.**
-3. **Frog's address form.** `tu` with archaic verbs is faithful but long and unusual for players.
-   **Recommendation: `você` with an archaic vocabulary, no `tu` forms.**
+3. **Frog's address form. Done.** `você` with a few archaic touches for Frog, Cyrus, Glenn, Slash and
+   the other knights and Mystics, no `vós` forms.
 4. **Item and tech names.** Translate everything, or keep English names for attacks? **Recommendation:
    translate items and monsters, keep the party's attack names when they already work as names.**
 5. **`*r screens`.** **Recommendation: leave in English for the first playable version, translate

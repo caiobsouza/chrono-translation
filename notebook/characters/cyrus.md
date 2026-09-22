@@ -17,7 +17,7 @@
 
 Proposals, confirm before relying on them.
 
-- Noble and confident, same register family as Frog but less archaic. Apply the same address-form choice as Frog.
+- Noble and confident, same register family as Frog but less archaic. Use `você` like Frog, never `vós` forms.
 
 ## Related terms
 

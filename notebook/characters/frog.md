@@ -20,7 +20,7 @@
 Proposals, confirm before relying on them.
 
 - Archaic vocabulary in Portuguese (`deveras`, `outrora`, `mui`, `ó`, `cavaleiro`), full sentences, no slang.
-- The address form (`tu` or `você`) is an open decision, see guidelines section 10. Apply one choice to every Frog and Cyrus line.
+- Address form decided: `você`, never `tu` or `vós` forms. Apply it to every Frog, Glenn and Cyrus line.
 - `GLENN` lines (the young squire) use the same formal register but plainer and more earnest.
 
 ## English versus original

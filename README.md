@@ -90,6 +90,17 @@ It reports:
 
 Limits such as the widest line of each block are measured from the original script, so they follow the game. The dialogue page estimate is approximate, so `insert` also stops when the real `ctinsert` prints an error and removes any patch it wrote before failing.
 
+### Translating with the Claude API
+
+`translate` sends the strings in batches to the Claude API, decodes the answers, writes them into `work/ct.txt`, runs the validator on each batch and retries failures once. It is a dry run unless you add `--yes`.
+
+```
+dotenvx run -- uv run cc-extrator translate --blocks dialog --limit 40            # dry run, prints the projected cost
+dotenvx run -- uv run cc-extrator translate --blocks dialog --limit 40 --yes      # really calls the API
+```
+
+Money is guarded three ways: every call is written to a ledger (`work/spend-ledger.json`, shared by all work directories), a call is refused when the ledger total plus its worst case would pass `--total-cap` (default $9.50), and a single run stops at `--max-cost` (default $1.00). Measured on the pilot: Sonnet 5 costs about $0.02 per 40 strings and Opus 5 about $0.10, because it thinks three times as much.
+
 ### The space budget
 
 `budget` runs `ctinsert` on a throwaway copy of the work directory (nothing is written to it) and reports the English script and your translation side by side: raw and packed size, the growth over English, the space used on each of the 12 text pages, and the tightest pages. It says `FITS` or `OVERFLOW` with the pages and how much text to cut, and exits with an error status on overflow. Run it while translating, not at the end. See the known limitations for why the space is so tight.
@@ -105,6 +116,20 @@ Limits such as the widest line of each block are measured from the original scri
 - Space is the main constraint. The 32 Mbit ROM absorbs only about 10 percent more script than the English one before `ctinsert` runs out of text space. A 48 Mbit ROM (`romsize = 48` and `*Z` headers) removes the limit on paper, but the resulting ExHiROM image showed corrupted graphics and text in the target emulator (RomM with EmulatorJS), so it is not used. Longer dictionary words barely help (0.6 percent).
 - The dictionary is rebuilt for the script (`rebuild = true` in the default config). With the original dictionary reapplied, even the untouched English script overflows six text pages and `ctinsert` reports `ERROR:` lines.
 - Only the unmodified English script and a short accent test have been tried in an emulator.
+
+## Secrets
+
+The Anthropic API key is kept in an encrypted `.env` managed by [dotenvx](https://dotenvx.com). `.env` and its private key `.env.keys` are git-ignored, and `.env.example` lists the variables the project reads.
+
+```
+# copy the key to the clipboard, then store it without typing it in the shell (keeps it out of history)
+dotenvx set ANTHROPIC_API_KEY "$(pbpaste)" && pbcopy < /dev/null
+
+# run any command with the decrypted variables
+dotenvx run -- uv run cc-extrator <command>
+```
+
+Never print, paste or commit `.env.keys`. If it is lost, create a new key in the Anthropic console and run `dotenvx set` again.
 
 ## Layout
 
