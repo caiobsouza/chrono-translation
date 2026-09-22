@@ -249,3 +249,19 @@ def test_accents_follow_the_font_listed_in_ct_cfg(tmp_path: Path):
     assert accepted.errors == []
     assert codes(rejected) == {"accents"}
     assert "cc-extrator accents" in rejected.errors[0].message
+
+
+def test_a_party_name_cannot_be_translated_or_dropped_in_a_description():
+    original = ORIGINAL.replace("$p1:Enemies will attack even[nl]\nif you're not ready!", "$p1:Frog's Blade Toss")
+    target = original.replace("Frog's Blade Toss", "Sapo joga a espada")
+
+    report = validator.check(script.parse(original), script.parse(target))
+
+    assert "names" in {issue.code for issue in report.errors}
+
+
+def test_a_party_name_may_be_dropped_in_dialogue_when_the_sentence_allows_it():
+    original = ORIGINAL.replace("$d3:Robos: I am Robo.", "$d3:Robos: Crono, look out!")
+    target = original.replace("Crono, look out!", "Cuidado!")
+
+    assert validator.check(script.parse(original), script.parse(target)).errors == []

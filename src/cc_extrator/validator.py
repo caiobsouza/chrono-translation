@@ -168,6 +168,12 @@ def _limits(block: Block, options: Options) -> _Limits:
     return limits
 
 
+def block_limits(block: Block) -> tuple[int, int]:
+    """The widest line in pixels and the most lines the original strings of a block use."""
+    limits = _limits(block, Options())
+    return limits.max_px, limits.max_lines
+
+
 def _check_entry(block: Block, original: Entry, entry: Entry, limits: _Limits,
                  allowed_12px: set[str], allowed_8px: set[str], options: Options) -> list[Issue]:
     issues: list[Issue] = []
@@ -185,7 +191,7 @@ def _check_entry(block: Block, original: Entry, entry: Entry, limits: _Limits,
 
     _check_codes(block, original, entry, add)
     _check_characters(entry.text, allowed_8px if eight_pixel else allowed_12px, eight_pixel, options, add)
-    _check_names(original.text, entry.text, add)
+    _check_names(original.text, entry.text, add, dialog=block.is_dialog)
 
     if block.kind in "litm" and block.width is not None:
         length = visible_length(entry.text)
@@ -237,7 +243,12 @@ def _check_characters(text: str, allowed: set[str], eight_pixel: bool, options: 
         add(ERROR, "characters", "underscore is only valid in the 8px fields")
 
 
-def _check_names(original: str, text: str, add) -> None:
+def _check_names(original: str, text: str, add, dialog: bool = True) -> None:
+    if not dialog:
+        # in a description or a list a party name cannot be dropped or translated (Frog is not Sapo)
+        for name in _PARTY_NAMES:
+            if re.search(rf"\b{name}\b", original) and not re.search(rf"\b{name}\b", text):
+                add(ERROR, "names", f"the rename token {name} must stay in the text, never translated")
     if len(_BARE_ROBO.findall(text)) > len(_BARE_ROBO.findall(original)):
         add(ERROR, "names", "use Robos, the rename token, not Robo")
     if _DECORATED_NAME.search(text):

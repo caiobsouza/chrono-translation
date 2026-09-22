@@ -7,7 +7,9 @@ authors = [
     { name = "Caio Souza", email = "bss.caio@gmail.com" }
 ]
 requires-python = ">=3.14"
-dependencies = []
+dependencies = [
+    "anthropic>=1.7.0",
+]
 
 [project.scripts]
 cc-extrator = "cc_extrator.cli:main"

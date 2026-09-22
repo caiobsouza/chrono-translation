@@ -24,6 +24,7 @@ class Block:
     label: str
     line: str
     entries: list[Entry] = field(default_factory=list)
+    comments: list[str] = field(default_factory=list)
 
     @property
     def is_dialog(self) -> bool:
@@ -41,6 +42,9 @@ def parse(text: str) -> Script:
     entry: Entry | None = None
     for line in text.split("\n"):
         if line.startswith(";"):
+            note = line[1:].strip()
+            if block is not None and entry is None and note and set(note) != {"-"}:
+                block.comments.append(note)
             continue
         if line.startswith("*"):
             block = _new_block(line)
