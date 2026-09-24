@@ -16,9 +16,11 @@ wheels/
 data/*
 !data/.gitkeep
 work/
+work-*/
 work_*/
 out/*
 !out/.gitkeep
+*.pdf
 
 # Secrets (dotenvx). .env.keys holds the private key, never commit any of these
 .env
